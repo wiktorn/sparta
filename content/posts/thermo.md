@@ -1,6 +1,6 @@
 ---
 author: "Ewa Janion"
-title: "Thermopylae in Modern Polish Culture"
+title: "Thermopylae: – questioning, criticism, re-assessments"
 date: "2020-11-06"
 menu: "main"
 weight: 3
@@ -9,9 +9,6 @@ description: "Description"
 ShowToc: true
 TocOpen: true
 ---
-
-
-## Thermopylae: – questioning, criticism, re-assessments
 
 **In Polish culture, Thermopylae is usually associated with a positive model of war heroism. However, at times references to the famous battle were also used critically, to show that the model of heroism it embodies is simplistic, defective, or inadequate. In this part of the presentation, I will shortly introduce the typical realization of the Thermopylae theme in Polish war poetry, and then I will discuss several attempts to transgress it: the poem of Tadeusz Różewicz “Polish Thermopylae” as well as an identically entitled play of Tadeusz Miciński and its more recent interpretations. Finally, I will show some examples of how the military role model evoked by Thermopylae was used in state socialist Poland to satirise the reality of the economic crisis of the late ‘70s and early ‘80s. All examples come from the 20th and the 21st century but are rooted in the 19th-century Romantic paradigm of war heroism.** 
 
