@@ -1,0 +1,33 @@
+baseURL: "https://wiktorn.github.io/sparta/"
+title: Testing
+paginate: 8
+theme: hugo-PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
+params:
+  env: production
+  description: "Test"
+  author: field author
+  # author: ["Me", "You"] # multiple authors
+  ShowReadingTime: true
+  defaultTheme: auto
+  ShowShareButtons: false 
+  displayFullLangName: true
+  # images: ""
+  # assets:
+  #   favicon: '<path / external url>'
+
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >
+      Welcome to demo of hugo's theme PaperMod.
+      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
