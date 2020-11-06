@@ -1,9 +1,13 @@
-baseURL: "https://wiktorn.github.io/sparta/"
-title: Testing
+baseURL: "https://ewaroza.github.io/sparta/"
+title: Sparta
 paginate: 8
-theme: hugo-PaperMod
-enableInlineShortcodes: true
+# theme: hugo-primer
+theme: hugo-paperMod
+
 enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 
 # googleAnalytics: UA-123-45
 
@@ -11,23 +15,44 @@ minify:
   disableXML: true
   minifyOutput: true
 
-
 params:
-  env: production
-  description: "Test"
-  author: field author
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Sparta
+  description: 'Sparta description'
+  author: Spartanin
   # author: ["Me", "You"] # multiple authors
+
   ShowReadingTime: true
+  ShowShareButtons: false
+  comments: false
   defaultTheme: auto
-  ShowShareButtons: false 
-  displayFullLangName: true
-  # images: ""
-  # assets:
-  #   favicon: '<path / external url>'
+  disableThemeToggle : false
+  disableSpecial1stPost : false
 
+  assets:
+    favicon: ''
 
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    # imageUrl: '<img location>'
+    # imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Thermopylae in Modern Polish Culture \U0001F44B"
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+     Thermopylae is extrememely important in Poland. More important than anything else. Tutaj jeszcze trzeba coś napisać, żeby był dobry wstęp. Wstęp nie musi być długi - może być krótki. Grunt, żeby zdania były ładnie zredagowane. O, a tutaj jeszcze jedno zdanie, żeby sprawdzić, jak układają się linijki. Chyba nieźle. 
+
+
