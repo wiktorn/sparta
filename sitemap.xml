@@ -3,26 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wiktorn.github.io/sparta/posts/</loc>
+    <loc>https://ewaroza.github.io/sparta/posts/thermo/</loc>
+    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ewaroza.github.io/sparta/posts/test/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ewaroza.github.io/sparta/posts/</loc>
+    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ewaroza.github.io/sparta/</loc>
+    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ewaroza.github.io/sparta/posts/testpage/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wiktorn.github.io/sparta/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://ewaroza.github.io/sparta/categories/</loc>
   </url>
   
   <url>
-    <loc>https://wiktorn.github.io/sparta/posts/testpage/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wiktorn.github.io/sparta/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wiktorn.github.io/sparta/tags/</loc>
+    <loc>https://ewaroza.github.io/sparta/tags/</loc>
   </url>
   
 </urlset>
