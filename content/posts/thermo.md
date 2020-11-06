@@ -87,15 +87,15 @@ Surgeon: From now only easy things: amputations. [^4]
 
 These aspects of the play are emphasized in its recent interpretations. A theatre poster by a Polish graphic designer Franciszek Starowieyski reflects the duality of the play’s approach to Thermopylae. First, it shows the conventional elements of its stereotypical image: the red colour connects with the symbolic meaning of blood on the one hand and with the colours of the Polish flag on the other. The letter “T” for “Thermopylae” resembles a cross placed on a tomb. However, a single gouged, red eye close to the left corner introduces an element of grotesque to this image, while the tomb itself seems corroding on the edge. The idea of national resurrection – so dear for Polish Romantics and Neo-Romantics – is signalized by sprouting potatoes, Polish staple food, just the opposition of any solemn, poetic, or religious symbolism. 
 
-![Starow](/Starow.jpg "Franciszek Starowieyski")
+![Starow](../Starow.jpg "Franciszek Starowieyski")
  
 In 2014 Miciński’s play was staged by Jan Klata. The mise-en-scene emphasized the grotesque elements of the play, at times transforming it into a comedy. The characters referring to historical persons were cast as athletes, which emphasizes the conventional character of history: Józef Poniatowski was a boxer, who exercised with a punching bag and boxing gloves in Polish national colours, Grigory Potiomkin was a gymnast – representing a sport discipline Russians excel in. The athletic equipment together with opera glasses and some sheets of paper (a play script?) appear on the theatrical poster, in place of traditional images connected to the topics of national sacrifice. 
 
-![TP1](/TP1.jpg "Poster for Klata's performance")
+![TP1](../TP1.jpg "Poster for Klata's performance")
 
 In his performance, Klata asked whether the model of patriotism embodied by Thermopylae is univocally positive. He seems to argue that the readiness for heroic sacrifice may be easily mistaken with recklessness and irresponsibility – the Polish patriots are cocky and weak. Most importantly, in his performance, he exchanges Józef Poniatowski with the “little freedom fighter” – an armed boy participating – according to a national myth - in the Warsaw Insurrection of 1944. His monologue shows that heroism of the generation of Poles was often useless and senseless, and the mindless military leaders are responsible for the death of naïve, young people. Klata strikes at the Polish formula of patriotism that praises voluntary death as well as accepts – even encourages – the involvement of children in military conflicts.  
 
-![TP](/TP.jpg "Polish Thermopylae - a shot from Klata's performance")
+![TP](../TP.jpg "Polish Thermopylae - a shot from Klata's performance")
 
 The little freedom fighter and Wita - the incarnation of pure, ideal Polishness. (a shot from the performance: https://www.teatrpolski.wroc.pl ) 
 
@@ -116,7 +116,7 @@ The poem belongs to a series of satirical theatrical scenes, often referring to 
 
 The idea that Thermopylae exemplify a model that remains inadequate to state socialist circumstances is expressed also by Sławomir Mrożek in a satirical cartoon of 1982. It shows a dying Spartan soldier, with a sword in his stomach, who starts declaiming the famous epitaph: “Go, tell the Spartans, stranger passing by; That here, obedient to her laws…”, but he is silenced in a childish way by a very contemporary passer-by. 
 
-![Mrożek](/Mrożek.jpg "Cartoon by Mrożek")
+![Mrożek](../Mrożek.jpg "Cartoon by Mrożek")
  
 As Radosław Piętka noticed, both authors were known for their anti-heroic attitude, expressed in their former works (“Diary from the Warsaw Uprising” of Białoszewski and short stories “The last Hussar” and “Moniza Clavier” of Mrożek). These funny miniatures closely correspond with the discussion about the true formula of Polishness and the role of war heroism. At the same time, however, they may reveal some nostalgia of the intellectuals living in the Polish People’s Republic, often perceived as dull, backward, and isolated from the rest of the Western World. Many people suffered from the feeling of helplessness, deprivation of goods and life opportunities. Thus, in a way, the jokes may also express, paradoxically, an urgent need for some renewed version of the Spartan ideal. 
 
