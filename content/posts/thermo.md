@@ -3,7 +3,7 @@ author: "Ewa Janion"
 title: "Thermopylae in Modern Polish Culture"
 date: "2020-11-06"
 menu: "main"
-weight: 1
+weight: 3
 toc: false
 description: "Description"
 ShowToc: true
