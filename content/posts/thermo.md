@@ -39,7 +39,7 @@ Both examples create an enthusiastic image of the war. They present death in war
  
 ### Poem “Polish Thermopylae” by Tadeusz Różewicz (1947)
 
-This tradition of war representation is questioned by Tadeusz Różewicz. In his poem starting from the words “These heads hewed with shovel / like medusas with a purple core” [Te głowy ciosane łopatą / jak meduzy z purpurowym rdzeniem] and referring to the atrocities of the 2nd World War, the poet rejects the conventional, heroic depiction of war symbolized by the ideal of Thermopylae. Like in his other pieces, Różewicz formulates a proposition of new aesthetics that would be able to face the demand for poetry after the Shoah.
+This tradition of war representation is questioned by Tadeusz Różewicz. In his poem starting from the words “These heads hewed with shovel / like medusas with a purple core”[^3] and referring to the atrocities of the 2nd World War, the poet rejects the conventional, heroic depiction of war symbolized by the ideal of Thermopylae. Like in his other pieces, Różewicz formulates a proposition of new aesthetics that would be able to face the demand for poetry after the Shoah.
 
 The poem lacks traditional poetic means, such as a regular rhythm and rhyme, so important for the military anthems. Marta Piwińska (a prominent historian of Polish literature) stated that according to Różewicz “mentioning [Nazi] occupation in a combatant, partisan, patriotic, Romantic, or venturesome tone is a fake, a surrealist nonsense”. The poem catalogues images of horrific, fragmented bodies that bring to mind macabre, cubistic art. Its abominable aesthetics break with the classical myth of a muscular, clean, white body of Leonidas, beautiful even after his death – the one we know from classicist paintings and monuments as well as Polish romantic poetry. In Różewicz’s poem, smashed and deformed bodies are horridly colourful, while livid male genitals suggest a collapse of the classical model of masculinity. 
 
@@ -57,7 +57,7 @@ hanged
 
 > A female courier with a green eye  
 in her belly:  
-jumped off the train [^3] 
+jumped off the train [^4] 
 
 
 Różewicz breaks with the belief that the war should be associated with heroism and brotherhood. Finally, he also questions the monolithic image of the war as a practise of equal and culturally homogenoeus men, embodied by the homosocial ideal of the Legions. A Jewish boy and a female courier compromise the vision of the male Phalanx and destroy the fundaments for the identity of the collective subject in the optimistic military anthems. Even the blood and the common tomb, sanctified in patriotic poetry as symbols of unity, here are absent. The hanged Jewish boy will not be buried with honours, unlike the heroic Polish scouts from the former poem. Finally, the internal organs from dismembered and disembowelled bodies cannot share the symbolic function of “our, Polish blood”, they will not become a sacred basis for national bonds. 
@@ -79,7 +79,7 @@ In the play, there is a significant grotesque scene in which the surgeon amputat
 Medic: Sacré de nom – it is very simple, you will not have any descendants neither on the sword side, nor on the distaff side. I’ll cut off the rest of ovum, so it won’t putrefy in gangrene.   
 Officer: Oh, Katie, what a wound….  
 Medic: Yes, yes – Katie is not for you anymore, nor are you for Katie. But you will live – as the saint of Padua. (*he departs*)  
-Surgeon: From now only easy things: amputations. [^4]   
+Surgeon: From now only easy things: amputations. [^5]   
   
 
 These aspects of the play are emphasized in its recent interpretations. A theatre poster by a Polish graphic designer Franciszek Starowieyski reflects the duality of the play’s approach to Thermopylae. First, it shows the conventional elements of its stereotypical image: the red colour connects with the symbolic meaning of blood on the one hand and with the colours of the Polish flag on the other. The letter “T” for “Thermopylae” resembles a cross placed on a tomb. However, a single gouged, red eye close to the left corner introduces an element of grotesque to this image, while the tomb itself seems corroding on the edge. The idea of national resurrection – so dear for Polish Romantics and Neo-Romantics – is signalized by sprouting potatoes, Polish staple food, just the opposition of any solemn, poetic, or religious symbolism. 
@@ -107,7 +107,7 @@ Since the thread of Thermopylae is usually associated with grandiloquence and su
 The famous epitaph of Simonides of Ceos was travestied by the poet Miron Białoszewski in 1985:
 
 > Go, tell the Spartans, stranger passing by   
-That the queues are endless and the prices high. [^5] 
+That the queues are endless and the prices high. [^6] 
 
 The poem belongs to a series of satirical theatrical scenes, often referring to the political realities of the time. According to this one, the updated version of the epitaph was written on a leaflet, distributed underground by dissenters. The “parodistic heroization”, as Stanisław Barańczak defined it, juxtaposes its solemnity with the trivial problems of the everyday food provision. It may suggest that this kind of bombastic heroism does not fit to the Polish reality of the early ’80s – the times of government’s abuses, protests, economic crises, and shortages in the most basic goods. It shows the inadequacy of the ancient models on the one hand, but on the other, in a way, it also re-evaluates the heroic, daily struggles of ordinary people. 
 
@@ -119,10 +119,11 @@ As Radosław Piętka noticed, both authors were known for their anti-heroic atti
 
 
 
-[^1]:Translated by E.J. Polish version: Legiony – to są Termopile / Legiony – to zza świata zew. / Zejdzie słońce, choćby na mogile, / Gdy za Polskę swą przelejem krew.  
-[^2]: Translated by E.J. Polish version: Termopile, polskie Termopile, Tam ofiara młodej polskiej krwi; Pod kurhanem, we wspólnej mogile    / Wolna Polska harcerzom się śni.
-[^3]: Translated by E.J. Polish version: Młody skopany rozkraczony / z sinym kroczem / krzyczy / partyzant dźwiga / flaki niebieskie i soczyste / rozwalony na polu chwały / poległ // miedzianowłosy żydek / z sześcioramienną gwiazdą w oczach / zwisł // kurierka z zielonym okiem / w brzuchu: / wyskoczyła z pociągu.   
-[^4]: Translated by E.J. Polish version: Oficer: Kula mnie uderzyła -- -- wymówić mi trudno przy pani. […] 
-Lekarz: Sacré de nom -- to bardzo proste, nie będziemy mieć już potomka po mieczu ani po kądzieli. Wytnę resztę ovum, żeby nie zgniło w gangrenę. Oficer: Oj Kasiu, jaka tam rana... Lekarz: Tak, tak – ani już Kasia dla waćpana, ani waćpan dla Kasi. Ale żyć będziesz – jako święty Padewski. (*odchodzi*) Felczer: To już same łatwe rzeczy: amputacje. 
-[^5]: Translated by L.J. Polish version: Przechodniu powiedz Sparcie; jak zdrożało żarcie.
+[^1]:Translated by E.J. Polish version: Legiony – to są Termopile / Legiony – to zza świata zew. / Zejdzie słońce, choćby na mogile, / Gdy za Polskę swą przelejem krew. (J. Speina, *Reminescencje spartańskie w poezji polskiej XX wieku, in: *Sparta w kulturze polskiej v. 1: Model recepcji, spojrzenie europejskie, konteksty greckie*, ed. by M. Kalinowska et al., Warszawa 2014, p. 275. 
+[^2]: Translated by E.J. Polish version: Termopile, polskie Termopile, Tam ofiara młodej polskiej krwi; Pod kurhanem, we wspólnej mogile    / Wolna Polska harcerzom się śni. 
+[^3]: Translated by E.J. Polish version: Te głowy ciosane łopatą / jak meduzy z purpurowym rdzeniem. (J. Speina, op. cit., p. 298). 
+[^4]: Translated by E.J. Polish version: Młody skopany rozkraczony / z sinym kroczem / krzyczy / partyzant dźwiga / flaki niebieskie i soczyste / rozwalony na polu chwały / poległ // miedzianowłosy żydek / z sześcioramienną gwiazdą w oczach / zwisł // kurierka z zielonym okiem / w brzuchu: / wyskoczyła z pociągu.  (Ibid.) 
+[^5]: Translated by E.J. Polish version: Oficer: Kula mnie uderzyła -- -- wymówić mi trudno przy pani. […] 
+Lekarz: Sacré de nom -- to bardzo proste, nie będziemy mieć już potomka po mieczu ani po kądzieli. Wytnę resztę ovum, żeby nie zgniło w gangrenę. Oficer: Oj Kasiu, jaka tam rana... Lekarz: Tak, tak – ani już Kasia dla waćpana, ani waćpan dla Kasi. Ale żyć będziesz – jako święty Padewski. (*odchodzi*) Felczer: To już same łatwe rzeczy: amputacje. (T. Miciński, *Utwory dramatyczne*, v.3: *Termopile Polskie. Misterium na tle życia i śmierci ks. Józefa Poniatowskiego*, opr. T. Wróblewska, Kraków 1980, p. 157.)
+[^6]: Translated by Ludmiła Janion. Polish version: Przechodniu powiedz Sparcie, jak zdrożało żarcie. (R. Piętka, *Sparta-Ateny, Sparta-Rzym, Sparta-Polska... Idea paralelizmu kultur dawnych i współczesnych w rozważaniach o Sparcie*, in: *Sparta w Kulturze Polskiej v. 2: Przekroje, syntezy, konteksty*, ed. by M. Kalinowska et al., Warszawa 2015, p. 126.)
 
