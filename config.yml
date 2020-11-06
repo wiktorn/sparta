@@ -2,7 +2,7 @@ baseURL: "https://ewaroza.github.io/sparta/"
 title: Sparta
 paginate: 8
 # theme: hugo-primer
-theme: hugo-paperMod
+theme: hugo-PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
