@@ -10,7 +10,7 @@ ShowToc: true
 TocOpen: true
 ---
 
-**In Polish culture, Thermopylae is usually associated with a positive model of war heroism. However, at times references to the famous battle were also used critically, to show that the model of heroism it embodies is simplistic, defective, or inadequate. In this part of the presentation, I will shortly introduce the typical realization of the Thermopylae theme in Polish war poetry, and then I will discuss several attempts to transgress it: the poem of Tadeusz Różewicz “Polish Thermopylae” as well as an identically entitled play of Tadeusz Miciński and its more recent interpretations. Finally, I will show some examples of how the military role model evoked by Thermopylae was used in state socialist Poland to satirise the reality of the economic crisis of the late ‘70s and early ‘80s. All examples come from the 20th and the 21st century but are rooted in the 19th-century Romantic paradigm of war heroism.** 
+**In Polish culture, Thermopylae is usually associated with a positive model of war heroism. However, at times references to the famous battle were also used critically, to show that the model of heroism it embodies is simplistic, defective, or inadequate. In this part of the site, I will shortly introduce the typical realization of the Thermopylae theme in Polish war poetry, and then I will discuss several attempts to transgress it: the poem of Tadeusz Różewicz “Polish Thermopylae” as well as an identically entitled play of Tadeusz Miciński and its more recent interpretations. Finally, I will show some examples of how the military role model evoked by Thermopylae was used in state socialist Poland to satirise the reality of the economic crisis of the late ‘70s and early ‘80s. All examples come from the 20th and the 21st century but are rooted in the 19th-century Romantic paradigm of war heroism.** 
 
 ### Stereotypical view of Thermopylae in Polish culture
 
@@ -75,11 +75,11 @@ Moreover, although elevated scenes are present in the play, the battle scenes ar
 
 In the play, there is a significant grotesque scene in which the surgeon amputates a soldier’s genitals. It shows how the categories of masculinity and war separated, while their unity was central to the classical perspective on Thermopylae.
 
-> Officer: The bullet hit me -- -- I cannot say in the lady’s presence. […]  
-Medic: Sacré de nom – it is very simple, you will not have any descendants neither on the sword side, nor on the distaff side. I’ll cut off the rest of ovum, so it won’t putrefy in gangrene.   
-Officer: Oh, Katie, what a wound….  
-Medic: Yes, yes – Katie is not for you anymore, nor are you for Katie. But you will live – as the saint of Padua. (*he departs*)  
-Surgeon: From now only easy things: amputations. [^5]   
+> **Officer**: The bullet hit me -- -- I cannot say in the lady’s presence. […]  
+**Medic**: Sacré de nom – it is very simple, you will not have any descendants neither on the sword side, nor on the distaff side. I’ll cut off the rest of ovum, so it won’t putrefy in gangrene.   
+**Officer**: Oh, Katie, what a wound….  
+**Medic**: Yes, yes – Katie is not for you anymore, nor are you for Katie. But you will live – as the saint of Padua. (*he departs*)  
+**Surgeon**: From now only easy things: amputations. [^5]   
   
 
 These aspects of the play are emphasized in its recent interpretations. A theatre poster by a Polish graphic designer Franciszek Starowieyski reflects the duality of the play’s approach to Thermopylae. First, it shows the conventional elements of its stereotypical image: the red colour connects with the symbolic meaning of blood on the one hand and with the colours of the Polish flag on the other. The letter “T” for “Thermopylae” resembles a cross placed on a tomb. However, a single gouged, red eye close to the left corner introduces an element of grotesque to this image, while the tomb itself seems corroding on the edge. The idea of national resurrection – so dear for Polish Romantics and Neo-Romantics – is signalized by sprouting potatoes, Polish staple food, just the opposition of any solemn, poetic, or religious symbolism. 
