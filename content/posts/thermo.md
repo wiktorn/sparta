@@ -116,7 +116,7 @@ The poem belongs to a series of satirical theatrical scenes, often referring to 
 
 The idea that Thermopylae exemplify a model that remains inadequate to state socialist circumstances is expressed also by Sławomir Mrożek in a satirical cartoon of 1982. It shows a dying Spartan soldier, with a sword in his stomach, who starts declaiming the famous epitaph: “Go, tell the Spartans, stranger passing by; That here, obedient to her laws…”, but he is silenced in a childish way by a very contemporary passer-by. 
 
-![Mrożek](../../Mrożek.jpg "Cartoon by Mrożek")
+![Mrożek](../../Mrozek.jpg "Cartoon by Mrożek")
  
 As Radosław Piętka noticed, both authors were known for their anti-heroic attitude, expressed in their former works (“Diary from the Warsaw Uprising” of Białoszewski and short stories “The last Hussar” and “Moniza Clavier” of Mrożek). These funny miniatures closely correspond with the discussion about the true formula of Polishness and the role of war heroism. At the same time, however, they may reveal some nostalgia of the intellectuals living in the Polish People’s Republic, often perceived as dull, backward, and isolated from the rest of the Western World. Many people suffered from the feeling of helplessness, deprivation of goods and life opportunities. Thus, in a way, the jokes may also express, paradoxically, an urgent need for some renewed version of the Spartan ideal. 
 
