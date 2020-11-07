@@ -107,7 +107,7 @@ And its gaze scornful of death – the blush of life.
 >
 >[…]  
 
-Transl. by Cathrine O'Neil[^1]
+Transl. by Cathrine O'Neil [^1]. 
 
 In the mystical period of Słowacki’s oeuvre (after 1843), the central theme of Thermopylae and the heroism of Leonidas appears in two ways: in philosophical writings - again with the central theme of Leonidas upholding patriotism, which in Słowacki’s mystical system means a spiritual virtue indicating the way of the Spirit, and in *Agezylausz* [*Agesilaus*] – where Sparta fully becomes Poland and Agis an indomitable Christian hero. Sparta becomes Poland here but preserves its idiom... Sparta in Słowacki’s work functions as a distinct variation on the theme of battle and struggle, central for the poet’s anthropology and his vision of the world, including also for his mystical system. The cited texts clearly indicate a lasting tendency in Słowacki’s thinking and his poetry: a fascination with Sparta as a sign of a heroic anthropological model, and also the poet’s continual building of parallels between Sparta and Poland.
 
@@ -132,17 +132,7 @@ Sparta in Słowacki’s play is an anti-idyllic and anti-Apollonian world: peopl
 Together with the creation of disturbing images with hard-to-interpret semantics, the play features the theme of the song of the ancient chorus, continued by the Romantic poet as he resurrects the genuine, living, though almost forgotten singing of the chorus in Greek tragedies. This is the song of the chorus drawn from the earliest archetypal areas, continuing wherever the boundary becomes blurred between ritual and theatre, individual and group, myth and poetry. It is the Romantic poet’s song that “re-sounds” the ancient and constantly renewed choral song. At the same time, this is song created as an echo repeating “the tone of distant crying and singing”. It is the song of old myths and profound experiences and passions allowing people to unite with the romantically understood cosmos. It is song as a link between the two cultures. However, the great rhythm of the living world-cosmos in *Agesilaus* defines a transformation of the world and humankind, accomplished not in Athens but in fact in Sparta, where “man’s primeval force / Shone as a white statue”[^5]. Thus, in *Agesilaus* the chorus is a sign of the world’s moving, the stimulation and renewal of its higher meanings, and especially a new “hearing” of the meanings of ancient culture embodied in the Romantic poet’s revival of the song. In Słowacki’s tragedy that “choral music” beats out “life’s great rhythm”[^6], from the spirit of the song tragedy is born… The Romantic poet revives the long forgotten and long unheard voice of the ancient chorus, its song understood in a very Romantic way...[…]”
 
 Transl. Joanna Dutkiewicz
-
-### References
-   
-M. Brożek, *Agis i Kleomenes* [commentary], in: *Plutarch z Cheronei, Żywoty sławnych mężów*, transl. and ed. M. Brożek (Wrocław: Ossolineum,  1976).   
-G. Highet, *The Classical Tradition. Greek and Roman Influences on Western Literature* (Oxford:  University Press, 1967).       
-M. Kalinowska, *The Myth of Sparta in Juliusz Słowacki and Cyprian Norwid’s Dramas. Romantic Reinterpretation of Greek Heritage – the Polish Variant*, in: G. Klaniczay, M. Werner, O. Gecser (eds.), *Multiple Antiquities – Multiple Modernities. Ancient Histories in Nineteenth Century European Cultures* (Frankfurt/New York: Campus Verlag, 2011), pp. 547-561).
-E. Rawson, *The Spartan Tradition in European Thought* (Oxford: Clarendon P., 1991).   
-J. Skuczyński, *Odmiany form dramatycznych w okresie romantyzmu. Słowacki – Mickiewicz – Krasiński* (Toruń: Wydawnictwo UMK, 1993).  
-J. Słowacki, *Agezylausz*, [in:] idem, *Dzieła wszystkie*, ed. J. Kleiner, vol. 12, part 2 (Wrocław: Ossolineum, 1961).     
- 
-
+      
 ## Grażyna Halkiewicz-Sojak, Zbigniew Herbert's Sparta
 
 (G. Halkiewicz-Sojak, *Sparta Zbigniewa Herberta*, in: *Sparta w kulturze polskiej*, vol. 1, p. 345-356) Summary
@@ -160,10 +150,10 @@ Further details: see M. Kalinowska, *Sparta w niepublikowanych rękopisach Zbign
 Setting aside these tensions which show the multidimensionality of the theme of Sparta in various areas of Polish culture, what generalisations can be drawn reconciling the different points of view? The fact is that Sparta functions in Polish culture – and this is probably the most important common denominator of our studies – as a positive model of individual, self-sacrificing dedication to one’s country, and to a worthy although often lost cause. In this sense, Sparta in Polish culture is a model of valour and Thermopylaean sacrifice, even if this model is represented not only by Leonidas but also by King Agis. As such, it is a personal, individual model, chosen intentionally, and available to everyone… This positive model does not include the blind military force that destroys individuals, nor is it interested only in a strong state’s corporality, violence and capacity for expansion. Norwid pointed to the dangers of such a non-Thermopylaean, non-self-sacrificing, non-Greek Sparta (i.e. incompatible with the Romantic ideal of freedom). It is a paradox that, after the experiences of totalitarianism and the fascist fascination with the Spartans, the 20th century did not demolish that “Thermopylaean” ideal of Sparta. Miłosz or Herbert, who – like Norwid – were sceptical about Sparta with its destruction of the individual and its synonymity with violence, essentially did not destroy the “Thermopylaean” model, so deeply ingrained in Polish culture, as a model of valour and self-sacrifice, a voluntarily chosen proof of fidelity to a lost but priceless cause.
 
 [^1]: Juliusz Słowacki, *Agamemnon's Tomb* (*Grób Agamemnona*), transl. Catherine O'Neil, in: *Poland/s Angry Romantic: Two Poems and a Play by Juliusz Slowacki*, ed. P. Cochran, B. Johnston, M. Modrzewska and C. O'Neil, Cambridge Scholars Publishing 2009, p, 160--163.
-[^1]: Cf. M. Brożek (1976: 305-306). Plutarch’s text was Słowacki’s inspiration.  
-[^2]: E. Rawson (1991). See also: G. Highet (1967: 394 and subsequent pages).    
-[^3]: I wrote more extensively about the play in the paper: *The Myth of Sparta in Juliusz Słowacki and Cyprian Norwid’s Dramas. Romantic Reinterpretation of Greek Heritage – the Polish Variant*, in a collective work being prepared for publication at the Collegium Budapest (project  “Multiple Antiquities and Multiple Modernities in Nineteenth-Century Europe”, 2005) (Kalinowska 2011).
-[^4]: For more about Słowacki’s Agezylausz, and especially the Greece-Poland motif, the role of the chorus, and the “mystery aspect” of the play, see J. Skuczyński (1993: 152 and subsequent pages).
-[^5]: This is the metaphor used by the chorus in Agezylausz, speaking of Sparta’s importance for the history of humankind. See J. Słowacki (1961: 93). In the original: w Sparcie, gdzie "pierwsza człowieka siła / Posągiem białym świeciła”. 
-[^6]: Cf. ibidem, s. 96.
+[^2]: M. Brożek, *Agis i Kleomenes* [commentary], in: *Plutarch z Cheronei, Żywoty sławnych mężów*, transl. and ed. M. Brożek, Wrocław, Ossolineum,  1976, p. 305-306. Plutarch’s text was Słowacki’s inspiration.  
+[^3]: E. Rawson, *The Spartan Tradition in European Thought*, Oxford, Clarendon P., 1991. See also: G. Highet, *The Classical Tradition. Greek and Roman Influences on Western Literature*, Oxford:  University Press, 1967, p. 394 and subsequent pages).    
+[^4]: I wrote more extensively about the play in the paper: *The Myth of Sparta in Juliusz Słowacki and Cyprian Norwid’s Dramas. Romantic Reinterpretation of Greek Heritage – the Polish Variant*, in a collective work being prepared for publication at the Collegium Budapest (project  “Multiple Antiquities and Multiple Modernities in Nineteenth-Century Europe”, 2005) (M. Kalinowska, *The Myth of Sparta in Juliusz Słowacki and Cyprian Norwid’s Dramas. Romantic Reinterpretation of Greek Heritage – the Polish Variant*, in: G. Klaniczay, M. Werner, O. Gecser (eds.), *Multiple Antiquities – Multiple Modernities. Ancient Histories in Nineteenth Century European Cultures*, Frankfurt/New York, Campus Verlag, 2011, pp. 547-561).  
+[^5]: For more about Słowacki’s Agezylausz, and especially the Greece-Poland motif, the role of the chorus, and the “mystery aspect” of the play, see J. Skuczyński, *Odmiany form dramatycznych w okresie romantyzmu. Słowacki – Mickiewicz – Krasiński*, Toruń: Wydawnictwo UMK, 1993, p. 152 and subsequent pages.
+[^6]: This is the metaphor used by the chorus in Agezylausz, speaking of Sparta’s importance for the history of humankind. See J. Słowacki, *Agezylausz*, [in:] idem, *Dzieła wszystkie*, ed. J. Kleiner, vol. 12, part 2, Wrocław, Ossolineum, 1961, p. 93. In the original: w Sparcie, gdzie "pierwsza człowieka siła / Posągiem białym świeciła”. 
+[^7]: Cf. ibidem, p. 96.
 
