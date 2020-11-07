@@ -78,3 +78,5 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Izabela Piskorska, *The Spartan Topic in European Painting of the Nineteenth Century – Characters, Themes, Places. A Reconnaissance*    
 * Ewa Róża Janion, Ludmiła Janion, *Does the Phalanx of Healthy Men Represent Normative Society? Spartan ideal and contemporary visions of Sparta in perspective of Masculinity Studies*    
 * Szymon Wróbel, *Thucydides’s War and the Modern World*. 
+
+{{< nawigacja >}}
