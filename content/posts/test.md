@@ -31,46 +31,45 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 
 ## Contents of Volume I 
 
-Ryszard Kulesza, Two Spartas. An interview with Prof. Ryszard Kulesza (Dr Przemysław Kaniecki)
-Anna Grześkowiak-Krwawicz, The image of Sparta in the political thought of the Polish -Lithuanian Commonwealth
-Elżbieta Powązka, Spartan themes in the Baroque school theatre of St. Anne’s School in Cracow
-Ewa Róża Janion , Sparta in the accounts of travellers to Souli and historians of Souli in the 19th century
-Marcin Leszczyński, English beef-steak and Spartan soup. Byron and Sparta
-Jerzy Borowczyk, Lacedaemon’s example. Sparta in the eyes of the Philomaths and Decembrists (with references to Polish classicism at the turn of the 18th and 19th centuries)
-Maciej Junkiert, The reception of Spartan history in the first decades of the 19th century. The Polish perspective: Groddeck, Lelewel, Mickiewicz 
-Michał Kuziak, Adam Mickiewicz and Sparta. A troublesome legacy 
-Maria Kalinowska, Sparta in the “Greek” works of Juliusz Słowacki and Stanisław Wyspiański
-Arkadiusz Bagłajewski, Sparta in Romantic Polish poetry (1831-1863). Motifs, reminiscences, images
-Ewa Owczarz, Eliza Orzeszkowa’s tale of Leonidas. (Gloria victis compared to the writer’s other works with ancient themes) 
-Jerzy Speina, Spartan reminiscences in 20th-century Polish literature 
-Magdalena Bauchrowicz-Kłodzińska, Czesław Miłosz’s “Peloponnesian war”.
-An ancient allusion as an element in the debate with the Tyrtaean ethos 
-Grażyna Halkiewicz-Sojak, Zbigniew Herbert’s Sparta 
-Alicja Kordos, Przemysław Kordos, Polish travellers in Sparta 
-Ryszard Kulesza, Thermopylae – in Poland and around the world. A reconnaissance 
-Damian Kaja, 300 opposite/against masses? The space of Thermopylae in Polish and world cinema (in the context of trends of popular culture)
-Kaja Dybowska, Jacek Raszewski, Sparta in the propaganda of the Metaxas regime (1936-1941) 
-Jerzy Axer, Sparta Polonorum. Paradoxes of continuity and discontinuity 
+Ryszard Kulesza, *Two Spartas. An interview with Prof. Ryszard Kulesza* (Dr Przemysław Kaniecki)  
+Anna Grześkowiak-Krwawicz, *The image of Sparta in the political thought of the Polish -Lithuanian Commonweath*  
+Elżbieta Powązka, *Spartan themes in the Baroque school theatre of St. Anne’s School in Cracow*  
+Ewa Róża Janion , *Sparta in the accounts of travellers to Souli and historians of Souli in the 19th century*  
+Marcin Leszczyński, *English beef-steak and Spartan soup. Byron and Sparta*  
+Jerzy Borowczyk, *Lacedaemon’s example. Sparta in the eyes of the Philomaths and Decembrists (with references to Polish classicism at the turn of the 18th and 19th centuries)*  
+Maciej Junkiert, *The reception of Spartan history in the first decades of the 19th century. The Polish perspective: Groddeck, Lelewel, Mickiewicz*   
+Michał Kuziak, *Adam Mickiewicz and Sparta. A troublesome legacy*   
+Maria Kalinowska, *Sparta in the “Greek” works of Juliusz Słowacki and Stanisław Wyspiański*  
+Arkadiusz Bagłajewski, *Sparta in Romantic Polish poetry (1831-1863). Motifs, reminiscences, images*  
+Ewa Owczarz, *Eliza Orzeszkowa’s tale of Leonidas. (Gloria victis compared to the writer’s other works with ancient themes)*   
+Jerzy Speina, *Spartan reminiscences in 20th-century Polish literature*   
+Magdalena Bauchrowicz-Kłodzińska, *Czesław Miłosz’s “Peloponnesian war” An ancient allusion as an element in the debate with the Tyrtaean ethos*   
+Grażyna Halkiewicz-Sojak, *Zbigniew Herbert’s Sparta*   
+Alicja Kordos, Przemysław Kordos, *Polish travellers in Sparta*   
+Ryszard Kulesza, *Thermopylae – in Poland and around the world. A reconnaissance*   
+Damian Kaja, *300 opposite/against masses? The space of Thermopylae in Polish and world cinema (in the context of trends of popular culture)*  
+Kaja Dybowska, Jacek Raszewski, *Sparta in the propaganda of the Metaxas regime (1936-1941)   
+Jerzy Axer, *Sparta Polonorum. Paradoxes of continuity and discontinuity*   
 
 ## Contents of Volume II 
 
-Before the Nineteenth Century: Shaping the Stereotype of Sparta in Old Polish Literature. An Interview with Alina Nowicka-Jeżowa by Przemysław Kaniecki
-Joanna Partyka, In Search of Lacedaemon in Old Polish Texts. A Reconnaissance 
-Ilias Wrazas, Reflections on the Reception of Ancient Athens and Sparta 
-Małgorzata Borowska, Leonidas and Themistocles. Sparta and Athens in Nineteenth-Century Greek Historical Tragedy. An Overview
-Radosław Piętka, Sparta vs. Athens, Sparta vs. Rome, Sparta vs. Poland... The Idea of Cultural Parallelism in the Past and Present Reflections on Sparta 
-Elżbieta Wesołowska, Helen of Troy in Ancient Tradition and Polish Literature 
-Renata Krystyna Majewska, The Ideal of a Spartan Woman in the Opera Matka Spartanka by Franciszek Kniaźnin
-Mirosława Radowska-Lisak, Tyrtaeism in Musketeer Style. Władysław Sabowski’s Nad poziomy. Powieść z roku 1863
-Iwona E. Rusek, The Ritual of “Eternal Man” in Termopile polskie of Tadeusz Miciński and Noc Listopadowa of Stanisław Wyspiański
-Marta Dąbrowska, Spartan Tropes in Stanisław Vincenz’s “Greek Essays.” Notes from Reading 
-Elżbieta Kiślak, Sparta in the Greek Journey of Maurice Barrès 
-Przemysław Kordos, On the Spartan Origins of the Maniotes 
-Maria Kalinowska, More on the Maniotes... A Reading  of Adam Mickiewicz’s Translation of The Giaour and Cyprian Kamil Norwid’s Epimenides
-Mirosław Piotr Kruk, The Reception of Sparta in European Art. A Reconnaissance 
-Izabela Piskorska, The Spartan Topic in European Painting of the Nineteenth Century – Characters, Themes, Places. A Reconnaissance
-Ewa Róża Janion, Ludmiła Janion, Does the Phalanx of Healthy Men Represent Normative Society? Spartan ideal and contemporary visions of Sparta in perspective of Masculinity Studies
-Szymon Wróbel, Thucydides’s War and the Modern World 
+*Before the Nineteenth Century: Shaping the Stereotype of Sparta in Old Polish Literature. An Interview with Alina Nowicka-Jeżowa by Przemysław Kaniecki*    
+Joanna Partyka, *In Search of Lacedaemon in Old Polish Texts. A Reconnaissance*       
+Ilias Wrazas, *Reflections on the Reception of Ancient Athens and Sparta*     
+Małgorzata Borowska, *Leonidas and Themistocles. Sparta and Athens in Nineteenth-Century Greek Historical Tragedy. An Overview*    
+Radosław Piętka, *Sparta vs. Athens, Sparta vs. Rome, Sparta vs. Poland... The Idea of Cultural Parallelism in the Past and Present Reflections on Sparta*     
+Elżbieta Wesołowska, *Helen of Troy in Ancient Tradition and Polish Literature*    
+Renata Krystyna Majewska, *The Ideal of a Spartan Woman in the Opera Matka Spartanka by Franciszek Kniaźnin*    
+Mirosława Radowska-Lisak, *Tyrtaeism in Musketeer Style. Władysław Sabowski’s Nad poziomy. Powieść z roku 1863*    
+Iwona E. Rusek, *The Ritual of “Eternal Man” in Termopile polskie of Tadeusz Miciński and Noc Listopadowa of Stanisław Wyspiański*    
+Marta Dąbrowska, *Spartan Tropes in Stanisław Vincenz’s “Greek Essays.” Notes from Reading*     
+Elżbieta Kiślak, *Sparta in the Greek Journey of Maurice Barrès*     
+Przemysław Kordos, *On the Spartan Origins of the Maniotes*    
+Maria Kalinowska, *More on the Maniotes... A Reading  of Adam Mickiewicz’s Translation of The Giaour and Cyprian Kamil Norwid’s Epimenides*    
+Mirosław Piotr Kruk, *The Reception of Sparta in European Art. A Reconnaissance*    
+Izabela Piskorska, *The Spartan Topic in European Painting of the Nineteenth Century – Characters, Themes, Places. A Reconnaissance*    
+Ewa Róża Janion, Ludmiła Janion, *Does the Phalanx of Healthy Men Represent Normative Society? Spartan ideal and contemporary visions of Sparta in perspective of Masculinity Studies*    
+Szymon Wróbel, *Thucydides’s War and the Modern World*    
 
 
 
