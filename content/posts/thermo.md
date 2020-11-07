@@ -2,8 +2,7 @@
 author: "Ewa Janion"
 title: "Thermopylae: – questioning, criticism, re-assessments"
 date: "2020-11-06"
-menu: "main"
-weight: 3
+weight: 4
 toc: false
 description: "Description"
 ShowToc: true
