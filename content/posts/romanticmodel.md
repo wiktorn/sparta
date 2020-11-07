@@ -108,6 +108,10 @@ Grażyna Halkiewicz-Sojak wrote that Spartan motifs and allusions in Herbert’s
 
 Further details: see M. Kalinowska, *Sparta w niepublikowanych rękopisach Zbigniewa Herberta. Rekonesans*, „Sztuka Edycji”, 2017: 1, p.45-54.
 
+## Conclusions
+
+Setting aside these tensions which show the multidimensionality of the theme of Sparta in various areas of Polish culture, what generalisations can be drawn reconciling the different points of view? The fact is that Sparta functions in Polish culture – and this is probably the most important common denominator of our studies – as a positive model of individual, self-sacrificing dedication to one’s country, and to a worthy although often lost cause. In this sense, Sparta in Polish culture is a model of valour and Thermopylaean sacrifice, even if this model is represented not only by Leonidas but also by King Agis. As such, it is a personal, individual model, chosen intentionally, and available to everyone… This positive model does not include the blind military force that destroys individuals, nor is it interested only in a strong state’s corporality, violence and capacity for expansion. Norwid pointed to the dangers of such a non-Thermopylaean, non-self-sacrificing, non-Greek Sparta (i.e. incompatible with the Romantic ideal of freedom). It is a paradox that, after the experiences of totalitarianism and the fascist fascination with the Spartans, the 20th century did not demolish that “Thermopylaean” ideal of Sparta. Miłosz or Herbert, who – like Norwid – were sceptical about Sparta with its destruction of the individual and its synonymity with violence, essentially did not destroy the “Thermopylaean” model, so deeply ingrained in Polish culture, as a model of valour and self-sacrifice, a voluntarily chosen proof of fidelity to a lost but priceless cause.
+
 
 [^1]: Cf. M. Brożek (1976: 305-306). Plutarch’s text was Słowacki’s inspiration.  
 [^2]: E. Rawson (1991). See also: G. Highet (1967: 394 and subsequent pages).    
