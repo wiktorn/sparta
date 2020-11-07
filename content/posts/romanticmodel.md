@@ -133,19 +133,17 @@ Transl. Joanna Dutkiewicz
 
 ### References
    
-M. Brożek, ‘Agis i Kleomenes’ [commentary], in: Plutarch z Cheronei, Żywoty sławnych mężów, transl. and ed. M. Brożek (Wrocław: Ossolineum,  1976).   
-G. Highet, The Classical Tradition. Greek and Roman Influences on Western Literature (Oxford:  University Press, 1967).       
-M. Kalinowska, ‘The Myth of Sparta in Juliusz Słowacki and Cyprian Norwid’s Dramas. Romantic Reinterpretation of Greek Heritage – the Polish Variant’, in: G. Klaniczay, M. Werner, O. Gecser (eds.), Multiple Antiquities – Multiple Modernities. Ancient Histories in Nineteenth Century European Cultures (Frankfurt/New York: Campus Verlag, 2011), pp. 547-561).
-E. Rawson, The Spartan Tradition in European Thought (Oxford: Clarendon P., 1991).   
-J. Skuczyński, Odmiany form dramatycznych w okresie romantyzmu. Słowacki – Mickiewicz – Krasiński (Toruń: Wydawnictwo UMK, 1993).  
-J. Słowacki, Agezylausz, [in:] idem, Dzieła wszystkie, ed. J. Kleiner, vol. 12, part 2 (Wrocław: Ossolineum, 1961).     
+M. Brożek, *Agis i Kleomenes* [commentary], in: *Plutarch z Cheronei, Żywoty sławnych mężów*, transl. and ed. M. Brożek (Wrocław: Ossolineum,  1976).   
+G. Highet, *The Classical Tradition. Greek and Roman Influences on Western Literature* (Oxford:  University Press, 1967).       
+M. Kalinowska, *The Myth of Sparta in Juliusz Słowacki and Cyprian Norwid’s Dramas. Romantic Reinterpretation of Greek Heritage – the Polish Variant*, in: G. Klaniczay, M. Werner, O. Gecser (eds.), *Multiple Antiquities – Multiple Modernities. Ancient Histories in Nineteenth Century European Cultures* (Frankfurt/New York: Campus Verlag, 2011), pp. 547-561).
+E. Rawson, *The Spartan Tradition in European Thought* (Oxford: Clarendon P., 1991).   
+J. Skuczyński, *Odmiany form dramatycznych w okresie romantyzmu. Słowacki – Mickiewicz – Krasiński* (Toruń: Wydawnictwo UMK, 1993).  
+J. Słowacki, *Agezylausz*, [in:] idem, *Dzieła wszystkie*, ed. J. Kleiner, vol. 12, part 2 (Wrocław: Ossolineum, 1961).     
  
 
 ## Grażyna Halkiewicz-Sojak, Zbigniew Herbert's Sparta
 
-(G. Halkiewicz-Sojak, *Sparta Zbigniewa Herberta*, in: *Sparta w kulturze polskiej*, vol. 1, p. 345-356)
-
-### Summary
+(G. Halkiewicz-Sojak, *Sparta Zbigniewa Herberta*, in: *Sparta w kulturze polskiej*, vol. 1, p. 345-356) Summary
 
 “Zbigniew Herbert toured Sparta during his first Greek journey in September 1964. He didn’t return to the region during subsequent Greek travels. This traveller-poet’s perception of Sparta can be reconstructed from an excerpt in the essay “Attempt at a Description of the Greek Landscape” and Herbert’s correspondence with Magdalena and Zbigniew Czajkowski. For Herbert, this was not a space that inspired the artistic imagination, but the Spartan political system and its apologetic and critical interpretations present in the tradition of European thinking did encourage him to offer some reflections. His thoughts polemicize with the praise of Lacedaemonian culture initiated by Plato and Xenophon, which is the effect of the poet’s mistrust of abstract ideas and holistic systems and is part of the oppositions that Herbert found important: abstract versus concrete and idea versus life. The poet rejected utopias – actually, revolutionary utopias more often than retrospective ones (the latter including utopian thinking related to the Lycurgus tradition). He was a critic of Spartan education and its reduction of individual qualities and emotions (cf. the essay “Cleomedes”).
  
