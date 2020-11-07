@@ -168,3 +168,4 @@ Collaboration: Ludmiła Janion, Anna Hućko, Kohn Kearns, Joanna Dutkiewicz.
 [^6]: This is the metaphor used by the chorus in Agezylausz, speaking of Sparta’s importance for the history of humankind. See J. Słowacki, *Agezylausz*, [in:] idem, *Dzieła wszystkie*, ed. J. Kleiner, vol. 12, part 2, Wrocław, Ossolineum, 1961, p. 93. In the original: w Sparcie, gdzie "pierwsza człowieka siła / Posągiem białym świeciła”. 
 [^7]: Cf. ibidem, p. 96.
 
+{{< nawigacja >}}
