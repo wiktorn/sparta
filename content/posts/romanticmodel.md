@@ -33,79 +33,78 @@ In *Agamemnon’s Tomb* Leonidas is presented as a naked statue, and this is a s
 
 
 
->[10]
-To horse!... Here, along the bed of a dry stream,
-Where pink laurel blossoms flow instead of water, 
-As if a shining storm were chasing me,
-I fly with tears and with intense, flashing eyes,
-And my horse stretches his legs on the wind. 
-If he stumbles over a grave where knights rest – he’ll fall.
->
->[11]
-At Thermopylae? – No, at Cheronea -- 
-That is where my horse must stop.
-For I am from a land where the specter of hope
-Is like a dream for hearts of little faith. 
-For if my horse is frightened in his flight,
-Then that grave is equal to – ours.
->
->[12]
-A legion of dead Spartans is ready 
-To chase me from the grave at Thermopylae,
-For I am from the sad land of Ilots,  
-From a land where despair does not rain down on graves,
-From a land – where always after unhappy days 
-There always remains a sad half of the knights – half-alive.
->
->[13] 
-At Thermopylae I do not dare
-To lead my horse through the pass; 
-For there must be such faces, whose gaze
-Would crush the heart of every Pole for shame.
-I will not stand there before the spirit of Greece -    
-No, I would die first rather than go there in chains. 
->
->[14]
-At Thermopylae – what would I say
-If the knights stood up on the grave, 
-And, showing me their bloodied chests,
-Asked me plainly: “Were there many of you?
-Forget the distance of long centuries between us.”
-If they asked me this – what would I say?
->
->[15]
-At Thermopylae – a corpse lies still,
-Without red cloak or golden sash.
-It is the naked corpse of Leonidas:
-There is a beautiful soul inside its marble form. 
-For a long time the people mourned his sacrifice,
-The scented flame, and the broken goblet. 
->
->[16]
-O Poland! So long as your angelic soul
-Is cased within a jovial skull,
-So long will the executioner chop your body,
-Nor will your vengeful sword cause terror,
-So long will you have a hyena prowling over you
-And a grave to seize you – open-eyed!
->
->[17]
-Cast off the last shred of those hideousrags,
-That burning shirt of Deianira:
-And rise, unashamed, like great statues,
-Naked – washed in the mire of the Styx,
-New – insolent in iron nakedness – 
-Not shamed by anything – immortal!
->
->[18]
-Let the northern nation rise from its silent grave
-And frighten other people at the sight,
-Of such a huge statue – made from a single stone!
-And so forged that it will never shatter in thunder,
-But its hands and crown will be of lightning,
-And its gaze scornful of death – the blush of life.
-[…]
-
+>[10]  
+To horse!... Here, along the bed of a dry stream,  
+Where pink laurel blossoms flow instead of water,   
+As if a shining storm were chasing me,  
+I fly with tears and with intense, flashing eyes,  
+And my horse stretches his legs on the wind.   
+If he stumbles over a grave where knights rest – he’ll fall.  
+>  
+>[11]  
+At Thermopylae? – No, at Cheronea --   
+That is where my horse must stop.  
+For I am from a land where the specter of hope  
+Is like a dream for hearts of little faith.   
+For if my horse is frightened in his flight,  
+Then that grave is equal to – ours.  
+>  
+>[12]  
+A legion of dead Spartans is ready   
+To chase me from the grave at Thermopylae,  
+For I am from the sad land of Ilots,   
+From a land where despair does not rain down on graves,  
+From a land – where always after unhappy days   
+There always remains a sad half of the knights – half-alive.  
+>  
+>[13]   
+At Thermopylae I do not dare  
+To lead my horse through the pass;   
+For there must be such faces, whose gaze  
+Would crush the heart of every Pole for shame.  
+I will not stand there before the spirit of Greece -      
+No, I would die first rather than go there in chains.   
+>  
+>[14]  
+At Thermopylae – what would I say  
+If the knights stood up on the grave,   
+And, showing me their bloodied chests,  
+Asked me plainly: “Were there many of you?  
+Forget the distance of long centuries between us.”  
+If they asked me this – what would I say?  
+>  
+>[15]  
+At Thermopylae – a corpse lies still,  
+Without red cloak or golden sash.  
+It is the naked corpse of Leonidas:  
+There is a beautiful soul inside its marble form.   
+For a long time the people mourned his sacrifice,  
+The scented flame, and the broken goblet.   
+>  
+>[16]  
+O Poland! So long as your angelic soul  
+Is cased within a jovial skull,  
+So long will the executioner chop your body,  
+Nor will your vengeful sword cause terror,  
+So long will you have a hyena prowling over you  
+And a grave to seize you – open-eyed!  
+>  
+>[17]  
+Cast off the last shred of those hideousrags,  
+That burning shirt of Deianira:  
+And rise, unashamed, like great statues,  
+Naked – washed in the mire of the Styx,  
+New – insolent in iron nakedness –   
+Not shamed by anything – immortal!  
+>  
+>[18]  
+Let the northern nation rise from its silent grave  
+And frighten other people at the sight,  
+Of such a huge statue – made from a single stone!  
+And so forged that it will never shatter in thunder,  
+But its hands and crown will be of lightning,  
+And its gaze scornful of death – the blush of life.  
+[…]  
 
 In the mystical period of Słowacki’s oeuvre (after 1843), the central theme of Thermopylae and the heroism of Leonidas appears in two ways: in philosophical writings - again with the central theme of Leonidas upholding patriotism, which in Słowacki’s mystical system means a spiritual virtue indicating the way of the Spirit, and in *Agezylausz* [*Agesilaus*] – where Sparta fully becomes Poland and Agis an indomitable Christian hero. Sparta becomes Poland here but preserves its idiom... Sparta in Słowacki’s work functions as a distinct variation on the theme of battle and struggle, central for the poet’s anthropology and his vision of the world, including also for his mystical system. The cited texts clearly indicate a lasting tendency in Słowacki’s thinking and his poetry: a fascination with Sparta as a sign of a heroic anthropological model, and also the poet’s continual building of parallels between Sparta and Poland.
 
