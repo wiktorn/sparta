@@ -2,7 +2,6 @@
 author: "Maria Kalinowska"
 title: "A Romantic Model of the Polish Reception of Thermopylae"
 date: "2020-11-06"
-menu: "main"
 weight: 3
 toc: false
 description: "Description"
