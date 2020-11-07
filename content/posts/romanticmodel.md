@@ -138,7 +138,7 @@ Together with the creation of disturbing images with hard-to-interpret semantics
 
 Transl. Joanna Dutkiewicz
       
-![Juliusz Słowacki](../../JS.jpg "A Portrait of Juliusz Słowacki")
+![Juliusz Słowacki](../../JS.png "A Portrait of Juliusz Słowacki")
       
 ## Grażyna Halkiewicz-Sojak, Zbigniew Herbert's Sparta
 
