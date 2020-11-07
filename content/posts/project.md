@@ -1,6 +1,5 @@
 ---
 title: "Sparta in Polish Literature & Culture: the project and the two volumes"
-menu: "main"
 weight: 1
 toc: true
 author: "Maria Kalinowska"
