@@ -132,43 +132,14 @@ Together with the creation of disturbing images with hard-to-interpret semantics
 Transl. Joanna Dutkiewicz
 
 ### References
-
-J. Axer, ‘Latin as the Second Language of the Polish Republic’s Noblemen’s Nation’, in: J. Kieniewicz (ed.), Terra marique. The cultural intercourse between the European center and periphery in modern time (Warszawa: OBTA UW, 2001), pp. 59-63.    
-J. Axer, ‘The Classical Tradition in Central-Eastern Europe’, in: C. W. Kallendorf (ed.), Companion to the Classical Tradition  (Blackwell Publishing, 2007), pp. 132-156.  
-J. Axer, ‘Polish Philhellenism‘, in: Ausdrucksformen des Europaischen und internationalen Philhellenismus vom 17.-19. Jahrhundert’, herausg. E. Konstantinou, “Philhellenische Studien” Band 13 (Frankfurt am Main: Peter Lang, 2007), pp. 95-103.     
-S. Balbus, Między stylami (Kraków: Universitas, 1996).   
-M. Borowska, M. Kalinowska, J. Ławski, K. Tomaszuk (eds.), Filhellenizm w Polsce. Rekonesans (Warszawa: Wydawnictwo UW, 2007).   
+   
 M. Brożek, ‘Agis i Kleomenes’ [commentary], in: Plutarch z Cheronei, Żywoty sławnych mężów, transl. and ed. M. Brożek (Wrocław: Ossolineum,  1976).   
-J. Fiećko, Rosja Krasińskiego. Rzecz o nieprzejednaniu (Poznań: Wydawnictwo UAM, 2005).    
-G. Gömöri, ‘The Myth of Byron in Norwid’s Life and Work’, “The Slavonic and East European Review” X, 1973, p. 230-242.  
-G. Highet, The Classical Tradition. Greek and Roman Influences on Western Literature (Oxford:  University Press, 1967).    
- M. Kalinowska, ‘Słowo wstępne’, in: M. Kalinowska (ed.) Inspiracje Grecji antycznej w dramacie doby romantyzmu. Rekonesans, (Toruń, Wydawnictwo Adam Marszalek,
-2002), pp. 7-10.  
-M. Kalinowska, B. Paprocka-Podlasiak  (eds.),  Antyk romantyków – model europejski i wariant polski. Rekonesans (Toruń: Wydawnictwo Naukowe Grado, 2003).  
-M. Kalinowska, ‘Mickiewiczowska wizja dramatu i teatru w prelekcjach paryskich’, in: A. Nawarecki i B. Mytych (eds.), Wykłady lozańskie Adama Mickiewicza, Prace Naukowe UŚ  2331 (Katowice, 2006), pp. 159-171.  
-M. Kalinowska, Antropologia romantyczna a idee antropologiczne humanizmu, in: A. Nowicka – Jeżowa (ed.), Humanitas. Projekty antropologii humanistycznej, part I. Paradygmaty – tradycje – profile historyczne  (Warszawa: Wydawnictwo Neriton, 2009-2010), p. 477-496.   
-M. Kalinowska, ‘The Myth of Sparta in Juliusz Słowacki and Cyprian Norwid’s Dramas. Romantic Reinterpretation of Greek Heritage – the Polish Variant’, in: G. Klaniczay, M. Werner, O. Gecser (eds.), Multiple Antiquities – Multiple Modernities. Ancient Histories in Nineteenth Century European Cultures (Frankfurt/New York: Campus Verlag, 2011), pp. 547-561).  
-E. Kiślak, ‘Inspiracje platońskie, epikurejskie i stoickie w romantyzmie polskim. Zarys problematyki’, in: A. Nowicka – Jeżowa (ed.), Humanitas. Projekty antropologii humanistycznej, part II. Inspiracje filozoficzne projektów antropologicznych (Warszawa: Wydawnictwo Neriton, 2010), pp. 267-289.  
-J. Kleiner, Zygmunt Krasiński. Studia, ed. J. Starnawski (Warszawa:  Wydawnictwo Naukowe, 1998).  
-Z. Krasiński, Irydion, in: idem, Dzieła literackie, ed. P. Hertz, vol.1 (Warszawa: Państwowy Instytut Wydawniczy, 1973).   
-B. Mazur and G. Gömöri (eds.), Cyprian Norwid. Poet – Thinker – Craftsman (London: Orbis Books, 1988).    
-A. Mickiewicz, Wykłady lozańskie, reconstructed and translated by J. Kowalski, in: idem, Dzieła. Wydanie Rocznicowe, vol. 7. Pisma historyczne. Wykłady lozańskie (Warszawa: Czytelnik, 1996).   
-A. Mickiewicz, Literatura słowiańska, in: idem, Dzieła. Wydanie Rocznicowe, vol. 8 (Warszawa:  Czytelnik, 1997).  
-A. Mickiewicz, List z 19 grudnia 1851 r. do córki, Marii Mickiewiczówny [Letter to Maria Mickiewiczówna, 19 December 1851], in: idem, Dzieła Wydanie Rocznicowe, vol. 17 (Warszawa: Czytelnik, 2005), pp. 152-155.  
-Cz. Miłosz, The Land of Ulro, transl. L. Iribarne (Manchester:  Carcanet 1985).  
-C. Norwid, ‘Z listu (Do Włodzimierza Łubieńskiego)’, in: idem, Pisma wszystkie, ed. J. W. Gomulicki, vol. 1. Wiersze. Część pierwsza (Warszawa: Państwowy Instytut Wydawniczy,  1971), pp. 97-99.  
-C. Norwid, List do Wojciecha Grzymały, [Paryż, lato? 1852] [Letter to Wojciech Grzymała, 1852], in: idem, Pisma wszystkie, ed. J. W. Gomulicki, vol. 8. Listy (Warszawa: Państwowy Instytut Wydawniczy,  1971), p. 175.  
-I. Opacki, ‘„Ewangelija” i „nieszczęście”’, in: idem, Poezja romantycznych przełomów. Szkice (Wrocław: Ossolineum, 1972).  
-E. Rawson, The Spartan Tradition in European Thought (Oxford: Clarendon P., 1991).  
-T. Sinko, Hellada i Roma w Polsce. Przegląd utworów na tematy klasyczne w literaturze polskiej ostatniego stulecia (Lwów: Państwowe Wydawnictwo Książek Szkolnych, 1933).  
+G. Highet, The Classical Tradition. Greek and Roman Influences on Western Literature (Oxford:  University Press, 1967).       
+M. Kalinowska, ‘The Myth of Sparta in Juliusz Słowacki and Cyprian Norwid’s Dramas. Romantic Reinterpretation of Greek Heritage – the Polish Variant’, in: G. Klaniczay, M. Werner, O. Gecser (eds.), Multiple Antiquities – Multiple Modernities. Ancient Histories in Nineteenth Century European Cultures (Frankfurt/New York: Campus Verlag, 2011), pp. 547-561).
+E. Rawson, The Spartan Tradition in European Thought (Oxford: Clarendon P., 1991).   
 J. Skuczyński, Odmiany form dramatycznych w okresie romantyzmu. Słowacki – Mickiewicz – Krasiński (Toruń: Wydawnictwo UMK, 1993).  
-J. Słowacki, Agezylausz, [in:] idem, Dzieła wszystkie, ed. J. Kleiner, vol. 12, part 2 (Wrocław: Ossolineum, 1961). 
-J. Słowacki, Podróż do Ziemi Świętej z Neapolu, in:  idem, Dzieła wszystkie, ed. J. Kleiner vol. 9  (Wrocław: Ossolineum, 1956).  
-T. Spencer, Fair Greece sad Relic. Literary Philhellenism from Shakespeare to Byron (London: Weidenfeld & Nicolson,  1954).   
-B. H. Stern, The Rise of Romantic Hellenism in English Literature 1732-1786 (New York: Octagon Books, 1969).  
-S. Treugutt, ‘Rzymski dramat o polskim powstaniu’, in: Z. Krasiński, Irydion, introduction  S. Traugutt (Warszawa: Państwowy Instytut Wydawniczy, 1958).  
-A. Witkowska, „Sławianie, my lubim sielanki” (Warszawa: Państwowy Instytut Wydawniczy, 1972).  
-K. Ziemba, ‘Rzym Mickiewicza (wokół listu Adama Mickiewicza do Marii Mickiewiczówny z 19 grudnia 1851 roku)’, in: Antyk romantyków – model europejski i wariant polski. Rekonesans (Toruń: Wydawnictwo Naukowe Grado, 2003), s. 172 – 194.   
+J. Słowacki, Agezylausz, [in:] idem, Dzieła wszystkie, ed. J. Kleiner, vol. 12, part 2 (Wrocław: Ossolineum, 1961).     
+ 
 
 ## Grażyna Halkiewicz-Sojak, Zbigniew Herbert's Sparta
 
