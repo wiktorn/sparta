@@ -2,7 +2,6 @@
 author: "Maria Kalinowska"
 title: "Before the Nineteenth Century"
 date: "2020-11-06"
-menu: "main"
 weight: 2
 toc: false
 description: "Description"
