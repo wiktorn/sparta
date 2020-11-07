@@ -38,7 +38,7 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Ryszard Kulesza, *Two Spartas. An interview with Prof. Ryszard Kulesza* (Dr Przemysław Kaniecki)  
 * Anna Grześkowiak-Krwawicz, *The image of Sparta in the political thought of the Polish -Lithuanian Commonweath*  
 * Elżbieta Powązka, *Spartan themes in the Baroque school theatre of St. Anne’s School in Cracow*  
-* Ewa Róża Janion , *Sparta in the accounts of travellers to Souli and historians of Souli in the 19th century*  
+* Ewa Róża Janion, *Sparta in the accounts of travellers to Souli and historians of Souli in the 19th century*  
 * Marcin Leszczyński, *English beef-steak and Spartan soup. Byron and Sparta*  
 * Jerzy Borowczyk, *Lacedaemon’s example. Sparta in the eyes of the Philomaths and Decembrists (with references to Polish classicism at the turn of the 18th and 19th centuries)*  
 * Maciej Junkiert, *The reception of Spartan history in the first decades of the 19th century. The Polish perspective: Groddeck, Lelewel, Mickiewicz*   
@@ -52,12 +52,12 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Alicja Kordos, Przemysław Kordos, *Polish travellers in Sparta*   
 * Ryszard Kulesza, *Thermopylae – in Poland and around the world. A reconnaissance*   
 * Damian Kaja, *300 opposite/against masses? The space of Thermopylae in Polish and world cinema (in the context of trends of popular culture)*  
-* Kaja Dybowska, Jacek Raszewski, *Sparta in the propaganda of the Metaxas regime (1936-1941)   
+* Kaja Dybowska, Jacek Raszewski, *Sparta in the propaganda of the Metaxas regime (1936-1941)*   
 * Jerzy Axer, *Sparta Polonorum. Paradoxes of continuity and discontinuity*   
 
 ### Contents of Volume II 
 
-* Before the Nineteenth Century: Shaping the Stereotype of Sparta in Old Polish Literature. An Interview with Alina Nowicka-Jeżowa by Przemysław Kaniecki*    
+* *Before the Nineteenth Century: Shaping the Stereotype of Sparta in Old Polish Literature. An Interview with Alina Nowicka-Jeżowa by Przemysław Kaniecki*    
 * Joanna Partyka, *In Search of Lacedaemon in Old Polish Texts. A Reconnaissance*       
 * Ilias Wrazas, *Reflections on the Reception of Ancient Athens and Sparta*     
 * Małgorzata Borowska, *Leonidas and Themistocles. Sparta and Athens in Nineteenth-Century Greek Historical Tragedy. An Overview*    
@@ -73,7 +73,7 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Mirosław Piotr Kruk, *The Reception of Sparta in European Art. A Reconnaissance*    
 * Izabela Piskorska, *The Spartan Topic in European Painting of the Nineteenth Century – Characters, Themes, Places. A Reconnaissance*    
 * Ewa Róża Janion, Ludmiła Janion, *Does the Phalanx of Healthy Men Represent Normative Society? Spartan ideal and contemporary visions of Sparta in perspective of Masculinity Studies*    
-* Szymon Wróbel, *Thucydides’s War and the Modern World*    
+* Szymon Wróbel, *Thucydides’s War and the Modern World*.   
 
 
 
