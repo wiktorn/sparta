@@ -31,13 +31,13 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 
 ## Contents of Volume I 
 
-Ryszard Kulesza, *Two Spartas. An interview with Prof. Ryszard Kulesza* (Dr Przemysław Kaniecki)  
-Anna Grześkowiak-Krwawicz, *The image of Sparta in the political thought of the Polish -Lithuanian Commonweath*  
-Elżbieta Powązka, *Spartan themes in the Baroque school theatre of St. Anne’s School in Cracow*  
-Ewa Róża Janion , *Sparta in the accounts of travellers to Souli and historians of Souli in the 19th century*  
-Marcin Leszczyński, *English beef-steak and Spartan soup. Byron and Sparta*  
-Jerzy Borowczyk, *Lacedaemon’s example. Sparta in the eyes of the Philomaths and Decembrists (with references to Polish classicism at the turn of the 18th and 19th centuries)*  
-Maciej Junkiert, *The reception of Spartan history in the first decades of the 19th century. The Polish perspective: Groddeck, Lelewel, Mickiewicz*   
+* Ryszard Kulesza, *Two Spartas. An interview with Prof. Ryszard Kulesza* (Dr Przemysław Kaniecki)  
+* Anna Grześkowiak-Krwawicz, *The image of Sparta in the political thought of the Polish -Lithuanian Commonweath*  
+* Elżbieta Powązka, *Spartan themes in the Baroque school theatre of St. Anne’s School in Cracow*  
+* Ewa Róża Janion , *Sparta in the accounts of travellers to Souli and historians of Souli in the 19th century*  
+* Marcin Leszczyński, *English beef-steak and Spartan soup. Byron and Sparta*  
+* Jerzy Borowczyk, *Lacedaemon’s example. Sparta in the eyes of the Philomaths and Decembrists (with references to Polish classicism at the turn of the 18th and 19th centuries)*  
+* Maciej Junkiert, *The reception of Spartan history in the first decades of the 19th century. The Polish perspective: Groddeck, Lelewel, Mickiewicz*   
 Michał Kuziak, *Adam Mickiewicz and Sparta. A troublesome legacy*   
 Maria Kalinowska, *Sparta in the “Greek” works of Juliusz Słowacki and Stanisław Wyspiański*  
 Arkadiusz Bagłajewski, *Sparta in Romantic Polish poetry (1831-1863). Motifs, reminiscences, images*  
