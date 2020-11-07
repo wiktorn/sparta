@@ -120,9 +120,3 @@ Setting aside these tensions which show the multidimensionality of the theme of 
 [^5]: This is the metaphor used by the chorus in Agezylausz, speaking of Sparta’s importance for the history of humankind. See J. Słowacki (1961: 93). In the original: w Sparcie, gdzie "pierwsza człowieka siła / Posągiem białym świeciła”. 
 [^6]: Cf. ibidem, s. 96.
 
-
-
-
-
-
-## Grażyna Halkiewicz-Sojak, Zbigniew Herbert’s Sparta
