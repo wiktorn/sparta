@@ -108,13 +108,13 @@ And its gaze scornful of death – the blush of life.
 Transl. by Cathrine O'Neil [^1]. 
 
 
-{{< figure src="../../GA.jpg" title="Agamemnon’s Tomb – drawing by Juliusz Słowacki" caption="*Raptularz Wschodni Juliusza Słowackiego. Edycja – studia - komentarze, vol. 1. Podobizna autografu*, Warszawa, DiG 2019, p. 68">}}[^1]
+{{< figure src="../../GA.jpg" title="Agamemnon’s Tomb – drawing by Juliusz Słowacki, Raptularz Wschodni Juliusza Słowackiego. Edycja – studia - komentarze, vol. 1. Podobizna autografu, Warszawa, DiG 2019, p. 68">}}
 
 In the mystical period of Słowacki’s oeuvre (after 1843), the central theme of Thermopylae and the heroism of Leonidas appears in two ways: in philosophical writings - again with the central theme of Leonidas upholding patriotism, which in Słowacki’s mystical system means a spiritual virtue indicating the way of the Spirit, and in *Agezylausz* [*Agesilaus*] – where Sparta fully becomes Poland and Agis an indomitable Christian hero. Sparta becomes Poland here but preserves its idiom... Sparta in Słowacki’s work functions as a distinct variation on the theme of battle and struggle, central for the poet’s anthropology and his vision of the world, including also for his mystical system. The cited texts clearly indicate a lasting tendency in Słowacki’s thinking and his poetry: a fascination with Sparta as a sign of a heroic anthropological model, and also the poet’s continual building of parallels between Sparta and Poland.
 
 Wyspiański’s Greece, too, is a world of struggle, dynamics and tension, a world of activity and heroism. This dynamics – battle and struggle – brings us to think of Słowacki’s anti-idyllic and dramatic antiquity as a natural context for the “Greek” works of Wyspiański. Many features of Słowacki’s Hellenism, particularly the Polish-Greek parallel and the fascination with Homeric and Spartan Greece, inclines us to perceive Słowacki’s writing as a point of reference or even a tradition for the “ancient” works of Wyspiański as the author of *Powrót Odysa* [*Odysseus’ Return*]. We could risk the hypothesis of a kinship - though not necessarily a genetic one - between Sparta from *Agezylausz* and Wyspiański’s ancient Greece: this is where we find the link whereby Wyspiański inherits that ideological and artistic idea enabling him to extract from ancient Greece its raw primeval nature, created in the image of Polish, often regional or, more broadly, Slavic folk character. At the same time, however, the Spartan myth giving a privileged position to the community in a special way that shows affinity with Polish Romanticism, is not the language that could fascinate a modernist poet. In his sharp polemics with the Romantic myth of Thermopylae, Wyspiański seems to be saying that the romantic Spartan myth doesn’t have the power of salvation, it doesn’t liberate the individual from his existential tragedy or the nation from its tragic fate. It is only a tale about a beautiful and picturesque death. What in Słowacki is a sacrifice and a level of spiritual development, in Wyspiański becomes an empty gesture or – even more dangerously – an expression of a reckless rush towards death, an attraction to nothingness and empty transcendence.
 
-{{< figure src="../../SW.jpg" title="Self-portrait of Stanisław Wyspiański" caption="Public domain, via Wikimedia Commons" >}}
+{{< figure src="../../SW.jpg" title="Self-portrait of Stanisław Wyspiański. Public domain, via Wikimedia Commons"" >}}
 
 ### Further details
 
@@ -136,7 +136,7 @@ Together with the creation of disturbing images with hard-to-interpret semantics
 
 Transl. Joanna Dutkiewicz
 
-{{< figure src="../../JS.PNG" title="A Portrait of Juliusz Słowacki" >}}
+{{< figure src="../../JS.PNG" title="A Portrait of Juliusz Słowacki by James Hopwood. Public domain, via Wikimedia Commons" >}}
       
 ## Grażyna Halkiewicz-Sojak, Zbigniew Herbert's Sparta
 
@@ -157,7 +157,6 @@ Setting aside these tensions which show the multidimensionality of the theme of 
 
 Collaboration: Ludmiła Janion, Anna Hućko, Kohn Kearns, Joanna Dutkiewicz.  
 
-[^1]: .....
 [^1]: Juliusz Słowacki, *Agamemnon's Tomb* (*Grób Agamemnona*), transl. Catherine O'Neil, in: *Poland/s Angry Romantic: Two Poems and a Play by Juliusz Slowacki*, ed. P. Cochran, B. Johnston, M. Modrzewska and C. O'Neil, Cambridge Scholars Publishing 2009, p, 160--163.
 [^2]: M. Brożek, *Agis i Kleomenes* [commentary], in: *Plutarch z Cheronei, Żywoty sławnych mężów*, transl. and ed. M. Brożek, Wrocław, Ossolineum,  1976, p. 305-306. Plutarch’s text was Słowacki’s inspiration.  
 [^3]: E. Rawson, *The Spartan Tradition in European Thought*, Oxford, Clarendon P., 1991. See also: G. Highet, *The Classical Tradition. Greek and Roman Influences on Western Literature*, Oxford:  University Press, 1967, p. 394 and subsequent pages).    
