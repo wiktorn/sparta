@@ -35,7 +35,7 @@ In the mystical period of Słowacki’s oeuvre (after 1843), the central theme o
 
 Wyspiański’s Greece, too, is a world of struggle, dynamics and tension, a world of activity and heroism. This dynamics – battle and struggle – brings us to think of Słowacki’s anti-idyllic and dramatic antiquity as a natural context for the “Greek” works of Wyspiański. Many features of Słowacki’s Hellenism, particularly the Polish-Greek parallel and the fascination with Homeric and Spartan Greece, inclines us to perceive Słowacki’s writing as a point of reference or even a tradition for the “ancient” works of Wyspiański as the author of *Powrót Odysa* [*Odysseus’ Return*]. We could risk the hypothesis of a kinship - though not necessarily a genetic one - between Sparta from *Agezylausz* and Wyspiański’s ancient Greece: this is where we find the link whereby Wyspiański inherits that ideological and artistic idea enabling him to extract from ancient Greece its raw primeval nature, created in the image of Polish, often regional or, more broadly, Slavic folk character. At the same time, however, the Spartan myth giving a privileged position to the community in a special way that shows affinity with Polish Romanticism, is not the language that could fascinate a modernist poet. In his sharp polemics with the Romantic myth of Thermopylae, Wyspiański seems to be saying that the romantic Spartan myth doesn’t have the power of salvation, it doesn’t liberate the individual from his existential tragedy or the nation from its tragic fate. It is only a tale about a beautiful and picturesque death. What in Słowacki is a sacrifice and a level of spiritual development, in Wyspiański becomes an empty gesture or – even more dangerously – an expression of a reckless rush towards death, an attraction to nothingness and empty transcendence.
 
-### Further details:
+### Further details
 
 (M. Kalinowska, *Waning worlds and budding hopes. Anti-idyllic visions of antiquity in Polish Romanticism*, in: *The Missing Link: Classical Reception the “Younger” Europe*, edited and with an introduction by Zara M. Torlone, Oxford, “Classical Receptions Journal” (2013) 5 (3): 320-335.) 
 
@@ -54,6 +54,59 @@ Sparta in Słowacki’s play is an anti-idyllic and anti-Apollonian world: peopl
 Together with the creation of disturbing images with hard-to-interpret semantics, the play features the theme of the song of the ancient chorus, continued by the Romantic poet as he resurrects the genuine, living, though almost forgotten singing of the chorus in Greek tragedies. This is the song of the chorus drawn from the earliest archetypal areas, continuing wherever the boundary becomes blurred between ritual and theatre, individual and group, myth and poetry. It is the Romantic poet’s song that “re-sounds” the ancient and constantly renewed choral song. At the same time, this is song created as an echo repeating “the tone of distant crying and singing”. It is the song of old myths and profound experiences and passions allowing people to unite with the romantically understood cosmos. It is song as a link between the two cultures. However, the great rhythm of the living world-cosmos in *Agesilaus* defines a transformation of the world and humankind, accomplished not in Athens but in fact in Sparta, where “man’s primeval force / Shone as a white statue”[^5]. Thus, in *Agesilaus* the chorus is a sign of the world’s moving, the stimulation and renewal of its higher meanings, and especially a new “hearing” of the meanings of ancient culture embodied in the Romantic poet’s revival of the song. In Słowacki’s tragedy that “choral music” beats out “life’s great rhythm”[^6], from the spirit of the song tragedy is born… The Romantic poet revives the long forgotten and long unheard voice of the ancient chorus, its song understood in a very Romantic way...[…]”
 
 Transl. Joanna Dutkiewicz
+
+### References
+
+J. Axer, ‘Latin as the Second Language of the Polish Republic’s Noblemen’s Nation’, in: J. Kieniewicz (ed.), Terra marique. The cultural intercourse between the European center and periphery in modern time (Warszawa: OBTA UW, 2001), pp. 59-63.    
+J. Axer, ‘The Classical Tradition in Central-Eastern Europe’, in: C. W. Kallendorf (ed.), Companion to the Classical Tradition  (Blackwell Publishing, 2007), pp. 132-156.  
+J. Axer, ‘Polish Philhellenism‘, in: Ausdrucksformen des Europaischen und internationalen Philhellenismus vom 17.-19. Jahrhundert’, herausg. E. Konstantinou, “Philhellenische Studien” Band 13 (Frankfurt am Main: Peter Lang, 2007), pp. 95-103.     
+S. Balbus, Między stylami (Kraków: Universitas, 1996).   
+M. Borowska, M. Kalinowska, J. Ławski, K. Tomaszuk (eds.), Filhellenizm w Polsce. Rekonesans (Warszawa: Wydawnictwo UW, 2007).   
+M. Brożek, ‘Agis i Kleomenes’ [commentary], in: Plutarch z Cheronei, Żywoty sławnych mężów, transl. and ed. M. Brożek (Wrocław: Ossolineum,  1976).   
+J. Fiećko, Rosja Krasińskiego. Rzecz o nieprzejednaniu (Poznań: Wydawnictwo UAM, 2005).    
+G. Gömöri, ‘The Myth of Byron in Norwid’s Life and Work’, “The Slavonic and East European Review” X, 1973, p. 230-242.  
+G. Highet, The Classical Tradition. Greek and Roman Influences on Western Literature (Oxford:  University Press, 1967).    
+ M. Kalinowska, ‘Słowo wstępne’, in: M. Kalinowska (ed.) Inspiracje Grecji antycznej w dramacie doby romantyzmu. Rekonesans, (Toruń, Wydawnictwo Adam Marszalek,
+2002), pp. 7-10.  
+M. Kalinowska, B. Paprocka-Podlasiak  (eds.),  Antyk romantyków – model europejski i wariant polski. Rekonesans (Toruń: Wydawnictwo Naukowe Grado, 2003).  
+M. Kalinowska, ‘Mickiewiczowska wizja dramatu i teatru w prelekcjach paryskich’, in: A. Nawarecki i B. Mytych (eds.), Wykłady lozańskie Adama Mickiewicza, Prace Naukowe UŚ  2331 (Katowice, 2006), pp. 159-171.  
+M. Kalinowska, Antropologia romantyczna a idee antropologiczne humanizmu, in: A. Nowicka – Jeżowa (ed.), Humanitas. Projekty antropologii humanistycznej, part I. Paradygmaty – tradycje – profile historyczne  (Warszawa: Wydawnictwo Neriton, 2009-2010), p. 477-496.   
+M. Kalinowska, ‘The Myth of Sparta in Juliusz Słowacki and Cyprian Norwid’s Dramas. Romantic Reinterpretation of Greek Heritage – the Polish Variant’, in: G. Klaniczay, M. Werner, O. Gecser (eds.), Multiple Antiquities – Multiple Modernities. Ancient Histories in Nineteenth Century European Cultures (Frankfurt/New York: Campus Verlag, 2011), pp. 547-561).  
+E. Kiślak, ‘Inspiracje platońskie, epikurejskie i stoickie w romantyzmie polskim. Zarys problematyki’, in: A. Nowicka – Jeżowa (ed.), Humanitas. Projekty antropologii humanistycznej, part II. Inspiracje filozoficzne projektów antropologicznych (Warszawa: Wydawnictwo Neriton, 2010), pp. 267-289.  
+J. Kleiner, Zygmunt Krasiński. Studia, ed. J. Starnawski (Warszawa:  Wydawnictwo Naukowe, 1998).  
+Z. Krasiński, Irydion, in: idem, Dzieła literackie, ed. P. Hertz, vol.1 (Warszawa: Państwowy Instytut Wydawniczy, 1973).   
+B. Mazur and G. Gömöri (eds.), Cyprian Norwid. Poet – Thinker – Craftsman (London: Orbis Books, 1988).    
+A. Mickiewicz, Wykłady lozańskie, reconstructed and translated by J. Kowalski, in: idem, Dzieła. Wydanie Rocznicowe, vol. 7. Pisma historyczne. Wykłady lozańskie (Warszawa: Czytelnik, 1996).   
+A. Mickiewicz, Literatura słowiańska, in: idem, Dzieła. Wydanie Rocznicowe, vol. 8 (Warszawa:  Czytelnik, 1997).  
+A. Mickiewicz, List z 19 grudnia 1851 r. do córki, Marii Mickiewiczówny [Letter to Maria Mickiewiczówna, 19 December 1851], in: idem, Dzieła Wydanie Rocznicowe, vol. 17 (Warszawa: Czytelnik, 2005), pp. 152-155.  
+Cz. Miłosz, The Land of Ulro, transl. L. Iribarne (Manchester:  Carcanet 1985).  
+C. Norwid, ‘Z listu (Do Włodzimierza Łubieńskiego)’, in: idem, Pisma wszystkie, ed. J. W. Gomulicki, vol. 1. Wiersze. Część pierwsza (Warszawa: Państwowy Instytut Wydawniczy,  1971), pp. 97-99.  
+C. Norwid, List do Wojciecha Grzymały, [Paryż, lato? 1852] [Letter to Wojciech Grzymała, 1852], in: idem, Pisma wszystkie, ed. J. W. Gomulicki, vol. 8. Listy (Warszawa: Państwowy Instytut Wydawniczy,  1971), p. 175.  
+I. Opacki, ‘„Ewangelija” i „nieszczęście”’, in: idem, Poezja romantycznych przełomów. Szkice (Wrocław: Ossolineum, 1972).  
+E. Rawson, The Spartan Tradition in European Thought (Oxford: Clarendon P., 1991).  
+T. Sinko, Hellada i Roma w Polsce. Przegląd utworów na tematy klasyczne w literaturze polskiej ostatniego stulecia (Lwów: Państwowe Wydawnictwo Książek Szkolnych, 1933).  
+J. Skuczyński, Odmiany form dramatycznych w okresie romantyzmu. Słowacki – Mickiewicz – Krasiński (Toruń: Wydawnictwo UMK, 1993).  
+J. Słowacki, Agezylausz, [in:] idem, Dzieła wszystkie, ed. J. Kleiner, vol. 12, part 2 (Wrocław: Ossolineum, 1961). 
+J. Słowacki, Podróż do Ziemi Świętej z Neapolu, in:  idem, Dzieła wszystkie, ed. J. Kleiner vol. 9  (Wrocław: Ossolineum, 1956).  
+T. Spencer, Fair Greece sad Relic. Literary Philhellenism from Shakespeare to Byron (London: Weidenfeld & Nicolson,  1954).   
+B. H. Stern, The Rise of Romantic Hellenism in English Literature 1732-1786 (New York: Octagon Books, 1969).  
+S. Treugutt, ‘Rzymski dramat o polskim powstaniu’, in: Z. Krasiński, Irydion, introduction  S. Traugutt (Warszawa: Państwowy Instytut Wydawniczy, 1958).  
+A. Witkowska, „Sławianie, my lubim sielanki” (Warszawa: Państwowy Instytut Wydawniczy, 1972).  
+K. Ziemba, ‘Rzym Mickiewicza (wokół listu Adama Mickiewicza do Marii Mickiewiczówny z 19 grudnia 1851 roku)’, in: Antyk romantyków – model europejski i wariant polski. Rekonesans (Toruń: Wydawnictwo Naukowe Grado, 2003), s. 172 – 194.   
+
+## Grażyna Halkiewicz-Sojak, Zbigniew Herbert's Sparta
+
+(G. Halkiewicz-Sojak, *Sparta Zbigniewa Herberta*, in: *Sparta w kulturze polskiej*, vol. 1, p. 345-356)
+
+### Summary
+
+“Zbigniew Herbert toured Sparta during his first Greek journey in September 1964. He didn’t return to the region during subsequent Greek travels. This traveller-poet’s perception of Sparta can be reconstructed from an excerpt in the essay “Attempt at a Description of the Greek Landscape” and Herbert’s correspondence with Magdalena and Zbigniew Czajkowski. For Herbert, this was not a space that inspired the artistic imagination, but the Spartan political system and its apologetic and critical interpretations present in the tradition of European thinking did encourage him to offer some reflections. His thoughts polemicize with the praise of Lacedaemonian culture initiated by Plato and Xenophon, which is the effect of the poet’s mistrust of abstract ideas and holistic systems and is part of the oppositions that Herbert found important: abstract versus concrete and idea versus life. The poet rejected utopias – actually, revolutionary utopias more often than retrospective ones (the latter including utopian thinking related to the Lycurgus tradition). He was a critic of Spartan education and its reduction of individual qualities and emotions (cf. the essay “Cleomedes”).
+ 
+Next to this critical aspect, however, we can also find references in Herbert’s work to the heroic image of the Greek polis, to the tradition of Leonidas and the defence of Thermopylae. In “Prologue”, “Photograph” and “Report from the Besieged City” we find allusions to the Spartan tradition as laying a foundation for heroism and sanctioning such values as honour, patriotism, keeping one’s word. These accents return particularly in those works in which Herbert invokes the theme of a lost city: Lvov and, in a different aspect, Warsaw”.
+
+Grażyna Halkiewicz-Sojak wrote that Spartan motifs and allusions in Herbert’s oeuvres rereal an axiological duality”. After Halkiewicz-Sojak had completed this paper, the Zbigniew Herbert archive became available and it is now possible to find extensive notes for a publication that Herbert had planned on Thermopylae; these notes confirm the duality noted in Halkiewicz-Sojak’s paper. Herbert was very sceptical about an anti-individualist Sparta, though he valued Thermopylae and what it represented very highly. 
+
+Further details: see M. Kalinowska, *Sparta w niepublikowanych rękopisach Zbigniewa Herberta. Rekonesans*, „Sztuka Edycji”, 2017: 1, p.45-54.
 
 
 [^1]: Cf. M. Brożek (1976: 305-306). Plutarch’s text was Słowacki’s inspiration.  
