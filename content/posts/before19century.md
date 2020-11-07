@@ -6,11 +6,10 @@ menu: "main"
 weight: 2
 toc: false
 description: "Description"
-ShowToc: true
-TocOpen: true
+
 ---
 
-## An Interview with Alina Nowicka-Jeżowa by Przemysław Kaniecki. “Before the Nineteenth Century: Shaping the Stereotype of Sparta in Old Polish Literature” (summary)
+### An Interview with Alina Nowicka-Jeżowa by Przemysław Kaniecki. *Before the Nineteenth Century: Shaping the Stereotype of Sparta in Old Polish Literature* (summary)
 
 (*Rozmowa z Aliną Nowicką-Jeżową. Przed wiekiem XIX. Kształtowanie się stereotypu Sparty w literaturze staropolskiej*, in: *Sparta w kulturze polskiej*, vol. 2, Warszawa 2015, Wydział Artes Liberales UW, SubLupa, p. 11-28).
 
