@@ -104,7 +104,8 @@ Of such a huge statue – made from a single stone!
 And so forged that it will never shatter in thunder,  
 But its hands and crown will be of lightning,  
 And its gaze scornful of death – the blush of life.  
-[…]  
+>
+>[…]  
 
 In the mystical period of Słowacki’s oeuvre (after 1843), the central theme of Thermopylae and the heroism of Leonidas appears in two ways: in philosophical writings - again with the central theme of Leonidas upholding patriotism, which in Słowacki’s mystical system means a spiritual virtue indicating the way of the Spirit, and in *Agezylausz* [*Agesilaus*] – where Sparta fully becomes Poland and Agis an indomitable Christian hero. Sparta becomes Poland here but preserves its idiom... Sparta in Słowacki’s work functions as a distinct variation on the theme of battle and struggle, central for the poet’s anthropology and his vision of the world, including also for his mystical system. The cited texts clearly indicate a lasting tendency in Słowacki’s thinking and his poetry: a fascination with Sparta as a sign of a heroic anthropological model, and also the poet’s continual building of parallels between Sparta and Poland.
 
