@@ -1,0 +1,14 @@
+{{ if or ( .Page.PrevInSection ) ( .Page.NextInSection ) }}
+    <div class="pagination post-pagination" style="display: flex; justify-content: space-between">
+        <div class="left pagination-item {{ if not .Page.NextInSection }}disabled{{ end }}" style="color: rgb(51,51,51); text-overflow: ellipsis; max-width: 288px">
+            {{ if .Page.NextInSection }}
+                <a href="{{ .Page.NextInSection.Permalink | relLangURL }}">{{ .Page.NextInSection.Title | truncate 35 "..." }}</a>
+            {{ end }}
+        </div>
+        <div class="right pagination-item {{ if not .Page.PrevInSection }}disabled{{ end }}" style="color: rgb(51,51,51); text-overflow: ellipsis; max-width: 288px">
+            {{ if .Page.PrevInSection }}
+                <a href="{{ .Page.PrevInSection.Permalink | relLangURL }}">{{ .Page.PrevInSection.Title | truncate 35 "..." }}</a>
+            {{ end }}
+        </div>
+    </div>
+{{ end }}
