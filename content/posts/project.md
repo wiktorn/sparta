@@ -36,6 +36,8 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 
 ### Contents of Volume I 
 
+![Vol I Cover](../../SPA.jpg "Cover of Vol 1")
+
 * Ryszard Kulesza, *Two Spartas. An interview with Prof. Ryszard Kulesza* (Dr Przemysław Kaniecki)  
 * Anna Grześkowiak-Krwawicz, *The image of Sparta in the political thought of the Polish -Lithuanian Commonweath*  
 * Elżbieta Powązka, *Spartan themes in the Baroque school theatre of St. Anne’s School in Cracow*  
@@ -56,9 +58,9 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Kaja Dybowska, Jacek Raszewski, *Sparta in the propaganda of the Metaxas regime (1936-1941)*   
 * Jerzy Axer, *Sparta Polonorum. Paradoxes of continuity and discontinuity*   
 
-![Vol I Cover](../../SPA.jpg "Cover of Vol 1")
-
 ### Contents of Volume II 
+
+![Vol 2 Cover](../../SPA2.jpg "Cover of Vol 2")
 
 * *Before the Nineteenth Century: Shaping the Stereotype of Sparta in Old Polish Literature. An Interview with Alina Nowicka-Jeżowa by Przemysław Kaniecki*    
 * Joanna Partyka, *In Search of Lacedaemon in Old Polish Texts. A Reconnaissance*       
@@ -76,8 +78,4 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Mirosław Piotr Kruk, *The Reception of Sparta in European Art. A Reconnaissance*    
 * Izabela Piskorska, *The Spartan Topic in European Painting of the Nineteenth Century – Characters, Themes, Places. A Reconnaissance*    
 * Ewa Róża Janion, Ludmiła Janion, *Does the Phalanx of Healthy Men Represent Normative Society? Spartan ideal and contemporary visions of Sparta in perspective of Masculinity Studies*    
-* Szymon Wróbel, *Thucydides’s War and the Modern World*.   
-
-![Vol 2 Cover](../../SPA2.jpg "Cover of Vol 2")
-
-
+* Szymon Wróbel, *Thucydides’s War and the Modern World*. 
