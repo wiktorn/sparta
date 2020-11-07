@@ -108,7 +108,7 @@ And its gaze scornful of death – the blush of life.
 Transl. by Cathrine O'Neil [^1]. 
 
 
-{{< figure src="../../GA.jpg" title="Agamemnon’s Tomb – drawing by Juliusz Słowacki" caption="*Raptularz Wschodni Juliusza Słowackiego. Edycja – studia - komentarze, vol. 1. Podobizna autografu*, Warszawa, DiG 2019, p. 68">}}
+{{< figure src="../../GA.jpg" title="*Agamemnon’s Tomb* – drawing by Juliusz Słowacki" caption="*Raptularz Wschodni Juliusza Słowackiego. Edycja – studia - komentarze, vol. 1. Podobizna autografu*, Warszawa, DiG 2019, p. 68">}}
 
 In the mystical period of Słowacki’s oeuvre (after 1843), the central theme of Thermopylae and the heroism of Leonidas appears in two ways: in philosophical writings - again with the central theme of Leonidas upholding patriotism, which in Słowacki’s mystical system means a spiritual virtue indicating the way of the Spirit, and in *Agezylausz* [*Agesilaus*] – where Sparta fully becomes Poland and Agis an indomitable Christian hero. Sparta becomes Poland here but preserves its idiom... Sparta in Słowacki’s work functions as a distinct variation on the theme of battle and struggle, central for the poet’s anthropology and his vision of the world, including also for his mystical system. The cited texts clearly indicate a lasting tendency in Słowacki’s thinking and his poetry: a fascination with Sparta as a sign of a heroic anthropological model, and also the poet’s continual building of parallels between Sparta and Poland.
 
