@@ -32,7 +32,6 @@ In *Agamemnon’s Tomb* there is an unusual fragment: “And for a long time the
 In *Agamemnon’s Tomb* Leonidas is presented as a naked statue, and this is a specific kind of nakedness characteristic of ancient Greek monuments. It merges the indestructible divine and the eternal with human physicality and sensuality. There is a beautiful soul in this marble statue and a struggle is being waged for it and its  spiritual strength. A Poland bathed in the River Styx can become such a statue, and can  regain its soul.
 
 
-
 >[10]  
 To horse!... Here, along the bed of a dry stream,  
 Where pink laurel blossoms flow instead of water,   
@@ -108,6 +107,8 @@ And its gaze scornful of death – the blush of life.
 >[…]  
 
 Transl. by Cathrine O'Neil [^1]. 
+
+
 
 In the mystical period of Słowacki’s oeuvre (after 1843), the central theme of Thermopylae and the heroism of Leonidas appears in two ways: in philosophical writings - again with the central theme of Leonidas upholding patriotism, which in Słowacki’s mystical system means a spiritual virtue indicating the way of the Spirit, and in *Agezylausz* [*Agesilaus*] – where Sparta fully becomes Poland and Agis an indomitable Christian hero. Sparta becomes Poland here but preserves its idiom... Sparta in Słowacki’s work functions as a distinct variation on the theme of battle and struggle, central for the poet’s anthropology and his vision of the world, including also for his mystical system. The cited texts clearly indicate a lasting tendency in Słowacki’s thinking and his poetry: a fascination with Sparta as a sign of a heroic anthropological model, and also the poet’s continual building of parallels between Sparta and Poland.
 
