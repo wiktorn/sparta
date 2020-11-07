@@ -2,8 +2,7 @@
 author: "Ewa Janion"
 title: "Thermopylae: – questioning, criticism, re-assessments"
 date: "2020-11-06"
-menu: "main"
-weight: 3
+weight: 4
 toc: false
 description: "Description"
 ShowToc: true
@@ -41,7 +40,7 @@ Both examples create an enthusiastic image of the war. They present death in war
 
 This tradition of war representation is questioned by Tadeusz Różewicz. In his poem starting from the words “These heads hewed with shovel / like medusas with a purple core”[^3] and referring to the atrocities of the 2nd World War, the poet rejects the conventional, heroic depiction of war symbolized by the ideal of Thermopylae. Like in his other pieces, Różewicz formulates a proposition of new aesthetics that would be able to face the demand for poetry after the Shoah.
 
-The poem lacks traditional poetic means, such as a regular rhythm and rhyme, so important for the military anthems. Marta Piwińska (a prominent historian of Polish literature) stated that according to Różewicz “mentioning [Nazi] occupation in a combatant, partisan, patriotic, Romantic, or venturesome tone is a fake, a surrealist nonsense”. The poem catalogues images of horrific, fragmented bodies that bring to mind macabre, cubistic art. Its abominable aesthetics break with the classical myth of a muscular, clean, white body of Leonidas, beautiful even after his death – the one we know from classicist paintings and monuments as well as Polish romantic poetry. In Różewicz’s poem, smashed and deformed bodies are horridly colourful, while livid male genitals suggest a collapse of the classical model of masculinity. 
+The poem lacks traditional poetic means, such as a regular rhythm and rhyme, so important for the military anthems. Marta Piwińska (a prominent historian of Polish literature) stated that according to Różewicz “mentioning [German Nazi] occupation in a combatant, partisan, patriotic, Romantic, or venturesome tone is a fake, a surrealist nonsense”. The poem catalogues images of horrific, fragmented bodies that bring to mind macabre, cubistic art. Its abominable aesthetics break with the classical myth of a muscular, clean, white body of Leonidas, beautiful even after his death – the one we know from classicist paintings and monuments as well as Polish romantic poetry. In Różewicz’s poem, smashed and deformed bodies are horridly colourful, while livid male genitals suggest a collapse of the classical model of masculinity. 
 
 > A young man kicked astride   
 with livid crotch  
@@ -50,11 +49,11 @@ a partisan carries
 blue and juicy guts  
 sprawled on the field of glory  
 he fell  
-
+>
 > A copper colour haired kike   
 with a six-armed star in his eyes   
 hanged   
-
+>
 > A female courier with a green eye  
 in her belly:  
 jumped off the train [^4] 
