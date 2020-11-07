@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sparta</title>
-    <link>https://ewaroza.github.io/sparta/posts/</link>
+    <link>https://wiktorn.github.io/sparta/posts/</link>
     <description>Recent content in Posts on Sparta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ewaroza.github.io/sparta/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wiktorn.github.io/sparta/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testowy test</title>
-      <link>https://ewaroza.github.io/sparta/posts/test/</link>
+      <link>https://wiktorn.github.io/sparta/posts/test/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ewaroza.github.io/sparta/posts/test/</guid>
+      <guid>https://wiktorn.github.io/sparta/posts/test/</guid>
       <description>test test2# ExampleSite </description>
     </item>
     
     <item>
       <title>Title test</title>
-      <link>https://ewaroza.github.io/sparta/posts/testpage/</link>
+      <link>https://wiktorn.github.io/sparta/posts/testpage/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ewaroza.github.io/sparta/posts/testpage/</guid>
+      <guid>https://wiktorn.github.io/sparta/posts/testpage/</guid>
       <description>Test of the content</description>
     </item>
     
     <item>
       <title>Thermopylae: – questioning, criticism, re-assessments</title>
-      <link>https://ewaroza.github.io/sparta/posts/thermo/</link>
+      <link>https://wiktorn.github.io/sparta/posts/thermo/</link>
       <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ewaroza.github.io/sparta/posts/thermo/</guid>
+      <guid>https://wiktorn.github.io/sparta/posts/thermo/</guid>
       <description>In Polish culture, Thermopylae is usually associated with a positive model of war heroism. However, at times references to the famous battle were also used critically, to show that the model of heroism it embodies is simplistic, defective, or inadequate. In this part of the site, I will shortly introduce the typical realization of the Thermopylae theme in Polish war poetry, and then I will discuss several attempts to transgress it: the poem of Tadeusz Różewicz “Polish Thermopylae” as well as an identically entitled play of Tadeusz Miciński and its more recent interpretations.</description>
     </item>
     
