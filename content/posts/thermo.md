@@ -50,11 +50,11 @@ a partisan carries
 blue and juicy guts  
 sprawled on the field of glory  
 he fell  
-
+>
 > A copper colour haired kike   
 with a six-armed star in his eyes   
 hanged   
-
+>
 > A female courier with a green eye  
 in her belly:  
 jumped off the train [^4] 
