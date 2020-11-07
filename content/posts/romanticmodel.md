@@ -109,14 +109,14 @@ And its gaze scornful of death – the blush of life.
 Transl. by Cathrine O'Neil [^1]. 
 
 
-![Grób Agamemnona](../../GA.jpg "Grób Agamemnona")
+![Grób Agamemnona](../../GA.jpg "Słowacki's drawing of the Agamemnon Tomb")
 
 
 In the mystical period of Słowacki’s oeuvre (after 1843), the central theme of Thermopylae and the heroism of Leonidas appears in two ways: in philosophical writings - again with the central theme of Leonidas upholding patriotism, which in Słowacki’s mystical system means a spiritual virtue indicating the way of the Spirit, and in *Agezylausz* [*Agesilaus*] – where Sparta fully becomes Poland and Agis an indomitable Christian hero. Sparta becomes Poland here but preserves its idiom... Sparta in Słowacki’s work functions as a distinct variation on the theme of battle and struggle, central for the poet’s anthropology and his vision of the world, including also for his mystical system. The cited texts clearly indicate a lasting tendency in Słowacki’s thinking and his poetry: a fascination with Sparta as a sign of a heroic anthropological model, and also the poet’s continual building of parallels between Sparta and Poland.
 
 Wyspiański’s Greece, too, is a world of struggle, dynamics and tension, a world of activity and heroism. This dynamics – battle and struggle – brings us to think of Słowacki’s anti-idyllic and dramatic antiquity as a natural context for the “Greek” works of Wyspiański. Many features of Słowacki’s Hellenism, particularly the Polish-Greek parallel and the fascination with Homeric and Spartan Greece, inclines us to perceive Słowacki’s writing as a point of reference or even a tradition for the “ancient” works of Wyspiański as the author of *Powrót Odysa* [*Odysseus’ Return*]. We could risk the hypothesis of a kinship - though not necessarily a genetic one - between Sparta from *Agezylausz* and Wyspiański’s ancient Greece: this is where we find the link whereby Wyspiański inherits that ideological and artistic idea enabling him to extract from ancient Greece its raw primeval nature, created in the image of Polish, often regional or, more broadly, Slavic folk character. At the same time, however, the Spartan myth giving a privileged position to the community in a special way that shows affinity with Polish Romanticism, is not the language that could fascinate a modernist poet. In his sharp polemics with the Romantic myth of Thermopylae, Wyspiański seems to be saying that the romantic Spartan myth doesn’t have the power of salvation, it doesn’t liberate the individual from his existential tragedy or the nation from its tragic fate. It is only a tale about a beautiful and picturesque death. What in Słowacki is a sacrifice and a level of spiritual development, in Wyspiański becomes an empty gesture or – even more dangerously – an expression of a reckless rush towards death, an attraction to nothingness and empty transcendence.
 
-![Wyspiański](../../SW.jpg "Stanisław Wyspiański")
+![Wyspiański](../../SW.jpg "A Portrait of Stanisław Wyspiański")
 
 ### Further details
 
@@ -137,6 +137,8 @@ Sparta in Słowacki’s play is an anti-idyllic and anti-Apollonian world: peopl
 Together with the creation of disturbing images with hard-to-interpret semantics, the play features the theme of the song of the ancient chorus, continued by the Romantic poet as he resurrects the genuine, living, though almost forgotten singing of the chorus in Greek tragedies. This is the song of the chorus drawn from the earliest archetypal areas, continuing wherever the boundary becomes blurred between ritual and theatre, individual and group, myth and poetry. It is the Romantic poet’s song that “re-sounds” the ancient and constantly renewed choral song. At the same time, this is song created as an echo repeating “the tone of distant crying and singing”. It is the song of old myths and profound experiences and passions allowing people to unite with the romantically understood cosmos. It is song as a link between the two cultures. However, the great rhythm of the living world-cosmos in *Agesilaus* defines a transformation of the world and humankind, accomplished not in Athens but in fact in Sparta, where “man’s primeval force / Shone as a white statue”[^6]. Thus, in *Agesilaus* the chorus is a sign of the world’s moving, the stimulation and renewal of its higher meanings, and especially a new “hearing” of the meanings of ancient culture embodied in the Romantic poet’s revival of the song. In Słowacki’s tragedy that “choral music” beats out “life’s great rhythm”[^7], from the spirit of the song tragedy is born… The Romantic poet revives the long forgotten and long unheard voice of the ancient chorus, its song understood in a very Romantic way...[…]”
 
 Transl. Joanna Dutkiewicz
+      
+![Juliusz Słowacki](../../JS.jpg "A Portrait of Juliusz Słowacki")
       
 ## Grażyna Halkiewicz-Sojak, Zbigniew Herbert's Sparta
 
