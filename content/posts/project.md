@@ -33,6 +33,8 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 
 ## Contents of Volumes:
 
+
+
 ### Contents of Volume I 
 
 * Ryszard Kulesza, *Two Spartas. An interview with Prof. Ryszard Kulesza* (Dr Przemysław Kaniecki)  
@@ -55,6 +57,8 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Kaja Dybowska, Jacek Raszewski, *Sparta in the propaganda of the Metaxas regime (1936-1941)*   
 * Jerzy Axer, *Sparta Polonorum. Paradoxes of continuity and discontinuity*   
 
+![Vol I Cover](../../SPA.jpg "Cover of Vol 1")
+
 ### Contents of Volume II 
 
 * *Before the Nineteenth Century: Shaping the Stereotype of Sparta in Old Polish Literature. An Interview with Alina Nowicka-Jeżowa by Przemysław Kaniecki*    
@@ -75,6 +79,6 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Ewa Róża Janion, Ludmiła Janion, *Does the Phalanx of Healthy Men Represent Normative Society? Spartan ideal and contemporary visions of Sparta in perspective of Masculinity Studies*    
 * Szymon Wróbel, *Thucydides’s War and the Modern World*.   
 
-
+![Vol 2 Cover](../../SPA2.jpg "Cover of Vol 2")
 
 
