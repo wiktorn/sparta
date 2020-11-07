@@ -1,5 +1,5 @@
 ---
-title: "Testowy test"
+title: "Sparta in Polish Literature & Culture": the Project and the two volumes"
 menu: "main"
 weight: 1
 toc: true
