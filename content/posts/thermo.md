@@ -36,7 +36,7 @@ Both examples create an image of the war that may seem even enthusiastic – it 
  
 ### Poem *Polish Thermopylae* by Tadeusz Różewicz (1947)
 
-In her study *Romantic Legend and the Mockers* Marta Piwińska demonstrates that in the 20th century Polish culture there is a vivid trend showing distance from the romantic myths and ironically reevaluating the traditional value system[^3]. The ideal of Thermopylae, vital to the Polish Romanticism, also is reinterpreted in this way. 
+In her study *Romantic Legend and the Mockers* Marta Piwińska demonstrates that in the 20th-century Polish culture there is a vivid trend showing distance from the romantic myths and ironically reevaluating the traditional value system[^3]. The ideal of Thermopylae, vital to the Polish Romanticism, also is reinterpreted in this way. 
 
 The tradition of war representation is questioned by Tadeusz Różewicz. In his poem starting from the words “These heads hewed with shovel / like medusas with a purple core”[^4] and referring to the atrocities of the 2nd World War, the poet rejects the conventional, heroic depiction of war symbolized by the ideal of Thermopylae. Like in his other pieces, Różewicz formulates a proposition of new aesthetics that would be able to face the demand for poetry after the Shoah.
 
