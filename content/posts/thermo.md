@@ -20,7 +20,8 @@ The sun will rise, even if over a tomb
 When for Poland we’ll spill our blood. [^1]   
 
 {{< youtube id="sFQSNhFVI4M" >}}  
-  
+   
+   
 In this exclusively male performance organized in 2018 to celebrate a Polish army general, the tenor singer Piotr Rafałko is wearing a historical uniform and there are historical photographs in the background. The  performance is exalted, bombastic and some listeners may find it even caricatural. Yet, it confirms the statement that the allusions to Thermopylae are still a tool to praise the Polish military ethos, focusing on the willingness to sacrifice one’s life for the fatherland. According to the song, serving in the Polish army is a holy mission (a call from the beyond), and the perspective that one will be killed in action does not change the song’s optimistic tone: the sun rising over a tomb is an obvious sign of the forthcoming victory. Moreover, the plural subject stresses the unity and the brotherhood of the soldiers. Indeed, it was noticed that in Polish tradition, warfare was often described as an exclusive masculine adventure, a decent occasion to reinforce the homosocial, national bonds between men. 
 
 “Our blood” or “Polish blood” and soldiers’ tombs are leitmotifs in Polish patriotic poetry. Another representative example, among many of this kind, is a poem-song referring to the battle of Zadwórze, one of the battles during the Polish-Soviet war 1919-1920, attended not only by professional soldiers, but also by under aged scouts. The 2008 piece written by Andrzej Huk – a scout himself – shows the persistence of this model of heroism that – according to some people, usually conservatives and the hard right, is still up to date.
