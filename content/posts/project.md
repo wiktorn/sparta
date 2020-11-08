@@ -53,6 +53,8 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Kaja Dybowska, Jacek Raszewski, *Sparta in the propaganda of the Metaxas regime (1936-1941)*   
 * Jerzy Axer, *Sparta Polonorum. Paradoxes of continuity and discontinuity*   
 
+The first volume was edited by: Małgorzata Borowska, Maria Kalinowska, Jerzy Speina, and Katarzyna Tomaszuk.  
+
 ### Contents of Volume II 
 
 * *Before the Nineteenth Century: Shaping the Stereotype of Sparta in Old Polish Literature. An Interview with Alina Nowicka-Jeżowa by Przemysław Kaniecki*    
@@ -71,7 +73,9 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Mirosław Piotr Kruk, *The Reception of Sparta in European Art. A Reconnaissance*    
 * Izabela Piskorska, *The Spartan Topic in European Painting of the Nineteenth Century – Characters, Themes, Places. A Reconnaissance*    
 * Ewa Róża Janion, Ludmiła Janion, *Does the Phalanx of Healthy Men Represent Normative Society? Spartan ideal and contemporary visions of Sparta in perspective of Masculinity Studies*    
-* Szymon Wróbel, *Thucydides’s War and the Modern World*. 
+* Szymon Wróbel, *Thucydides’s War and the Modern World*.   
+
+The second volume was edited by: Małgorzata Borowska, Maria Kalinowska, Jerzy Speina, and Damian Kaja.   
 
 ### Cover images from both volumes -- engravings by Michał Hrisulidis 
 
