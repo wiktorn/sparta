@@ -64,7 +64,7 @@ Różewicz breaks with the belief that the war should be associated with heroism
 Therefore, the disintegrated bodies are a sign of the disintegration of both the subject and the community – the two fundaments of the classical heroic model. Finally, there is no perspective for a future victory: the death remains meaningless. The parallel with Thermopylae proves useless, it does not offer any valid point of reference, it is a complete nonsense.  
 
 
-### Drama “Polish Thermopylae” by Tadeusz Miciński (1913) and its interpretations (1982, 2014)
+### Drama *Polish Thermopylae* by Tadeusz Miciński (1913) and its interpretations (1982, 2014)
 
 In Tadeusz Miciński’s drama *Polish Thermopylae* the heroic death of Polish national hero, prince Józef Poniatowski, in the river of Elster during the battle of Leipzig (1813) is compared to the one of Leonidas. Indeed, for Romantic and modernist writers, Poniatowski constituted a solemn example of a heroic knight, faithful to his ideas and ready to self-sacrifice. According the legend, he drowned after being shot while he was protecting the withdrawing army of Napoleon.
 
