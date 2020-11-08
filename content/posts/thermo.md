@@ -1,6 +1,6 @@
 ---
 author: "Ewa Janion"
-title: "Thermopylae: – questioning, criticism, re-assessments"
+title: "Thermopylae – questioning, criticism, re-assessments"
 date: "2020-11-06"
 weight: 4
 toc: false
