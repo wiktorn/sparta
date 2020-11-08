@@ -8,7 +8,7 @@ description: "Description"
 
 ---
 
-**In Polish culture, Thermopylae is usually associated with a positive model of war heroism. However, at times references to the famous battle were also used critically, to show that the model of heroism it embodies is simplistic, defective, or inadequate. In this part of the site, I will shortly introduce the typical realization of the Thermopylae theme in Polish war poetry, and then I will discuss several attempts to transgress it: the poem of Tadeusz Różewicz “Polish Thermopylae” as well as an identically entitled play of Tadeusz Miciński and its more recent interpretations. Finally, I will show some examples of how the military role model evoked by Thermopylae was used in state socialist Poland to satirise the reality of the economic crisis of the late ‘70s and early ‘80s. All examples come from the 20th and the 21st century but are rooted in the 19th-century Romantic paradigm of war heroism.** 
+**In Polish culture, Thermopylae is usually associated with a positive model of war heroism. However, at times references to the famous battle were also used critically, to show that the model of heroism it embodies is simplistic, defective, or inadequate. In this part of the site, I will shortly introduce the typical realization of the Thermopylae theme in Polish war poetry, and then I will discuss several attempts to transgress it: the poem of Tadeusz Różewicz *Polish Thermopylae* as well as an identically entitled play of Tadeusz Miciński and its more recent interpretations. Finally, I will show some examples of how the military role model evoked by Thermopylae was used in state socialist Poland to satirise the reality of the economic crisis of the late ‘70s and early ‘80s. All examples come from the 20th and the 21st century but are rooted in the 19th-century Romantic paradigm of war heroism.** 
 
 ### Stereotypical view of Thermopylae in Polish culture
 
@@ -33,7 +33,7 @@ Scouts dream of a free Poland. [^2]
 Both examples create an image of the war that may seem even enthusiastic – it is quite a paradox if one considers the Polish history. They present death in warfare as meaningful sacrifice that will bring the future success. In consequence, they revalorize the defeat, defining it as temporary. The ideal of Thermopylae is exploited to its limits: one may conclude that soldiers’ death is the most desirable battle outcome;  survival is not considered a glorious alternative.
 
  
-### Poem “Polish Thermopylae” by Tadeusz Różewicz (1947)
+### Poem *Polish Thermopylae* by Tadeusz Różewicz (1947)
 
 This tradition of war representation is questioned by Tadeusz Różewicz. In his poem starting from the words “These heads hewed with shovel / like medusas with a purple core”[^3] and referring to the atrocities of the 2nd World War, the poet rejects the conventional, heroic depiction of war symbolized by the ideal of Thermopylae. Like in his other pieces, Różewicz formulates a proposition of new aesthetics that would be able to face the demand for poetry after the Shoah.
 
@@ -63,7 +63,7 @@ Therefore, the disintegrated bodies are a sign of the disintegration of both the
 
 ### Drama “Polish Thermopylae” by Tadeusz Miciński (1913) and its interpretations (1982, 2014)
 
-In Tadeusz Miciński’s drama “Polish Thermopylae” the heroic death of Polish national hero, prince Józef Poniatowski, in the river of Elster during the battle of Leipzig (1813) is compared to the one of Leonidas. Indeed, for Romantic and modernist writers, Poniatowski constituted a solemn example of a heroic knight, faithful to his ideas and ready to self-sacrifice. According the legend, he drowned after being shot while he was protecting the withdrawing army of Napoleon.
+In Tadeusz Miciński’s drama *Polish Thermopylae* the heroic death of Polish national hero, prince Józef Poniatowski, in the river of Elster during the battle of Leipzig (1813) is compared to the one of Leonidas. Indeed, for Romantic and modernist writers, Poniatowski constituted a solemn example of a heroic knight, faithful to his ideas and ready to self-sacrifice. According the legend, he drowned after being shot while he was protecting the withdrawing army of Napoleon.
 
 Yet, in the play of Miciński one can find fractures in this idealized image. The play’s structure is complex and unusual: its action visualizes the images in Poniatowski’s mind in the moment of his death. Thus, Poniatowski imagines a series of events from the Polish history that led to the end of the Kingdom of Poland and the political fall of the country: the excesses of the King, the treasons of the aristocracy, the corruption of the officials. The historical reality of Poland has little to do with the ancient ideals. The model of Thermopylae turns out inaccessible even for the prince himself. 
 
@@ -109,7 +109,7 @@ The idea that Thermopylae exemplify a model that remains inadequate to state soc
 
 {{< figure src="../../Mrozek.jpg" title="Cartoon by Mrożek, published in Magazine 'Szpilki' in 1982." >}}
  
-As Radosław Piętka noticed, both authors were known for their anti-heroic attitude, expressed in their former works (“Diary from the Warsaw Uprising” of Białoszewski and short stories “The last Hussar” and “Moniza Clavier” of Mrożek). These funny miniatures closely correspond with the discussion about the true formula of Polishness and the role of war heroism. At the same time, however, they may reveal some nostalgia of the intellectuals living in the Polish People’s Republic, often perceived as dull, backward, and isolated from the rest of the Western World. Many people suffered from the feeling of helplessness, deprivation of goods and life opportunities. Thus, in a way, the jokes may also express, paradoxically, an urgent need for some renewed version of the Spartan ideal. 
+As Radosław Piętka noticed, both authors were known for their anti-heroic attitude, expressed in their former works (*Diary from the Warsaw Uprising* of Białoszewski and short stories *The last Hussar* and *Moniza Clavier* of Mrożek). These funny miniatures closely correspond with the discussion about the true formula of Polishness and the role of war heroism. At the same time, however, they may reveal some nostalgia of the intellectuals living in the Polish People’s Republic, often perceived as dull, backward, and isolated from the rest of the Western World. Many people suffered from the feeling of helplessness, deprivation of goods and life opportunities. Thus, in a way, the jokes may also express, paradoxically, an urgent need for some renewed version of the Spartan ideal. 
 
 
 
