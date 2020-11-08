@@ -53,7 +53,7 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 * Kaja Dybowska, Jacek Raszewski, *Sparta in the propaganda of the Metaxas regime (1936-1941)*   
 * Jerzy Axer, *Sparta Polonorum. Paradoxes of continuity and discontinuity*   
 
-The first volume was edited by: Małgorzata Borowska, Maria Kalinowska, Jerzy Speina, and Katarzyna Tomaszuk.  
+The first volume was edited by Małgorzata Borowska, Maria Kalinowska, Jerzy Speina, and Katarzyna Tomaszuk.  
 
 ### Contents of Volume II 
 
@@ -75,7 +75,7 @@ The first volume was edited by: Małgorzata Borowska, Maria Kalinowska, Jerzy Sp
 * Ewa Róża Janion, Ludmiła Janion, *Does the Phalanx of Healthy Men Represent Normative Society? Spartan ideal and contemporary visions of Sparta in perspective of Masculinity Studies*    
 * Szymon Wróbel, *Thucydides’s War and the Modern World*.   
 
-The second volume was edited by: Małgorzata Borowska, Maria Kalinowska, Jerzy Speina, and Damian Kaja.   
+The second volume was edited by Małgorzata Borowska, Maria Kalinowska, Jerzy Speina, and Damian Kaja.   
 
 ### Cover images from both volumes -- engravings by Michał Hrisulidis 
 
