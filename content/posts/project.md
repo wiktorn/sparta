@@ -75,7 +75,8 @@ How does the Polish reception of Thermopylae relate to the Polish reception of S
 
 ### Cover images from both volumes -- engravings by Michał Hrisulidis 
 
-![Vol I Cover](../../SPA.jpg "Cover of Vol 1")
+![Vol I Cover](../../SPA.jpg "Cover of Vol 1")  
+
 ![Vol 2 Cover](../../SPA2.jpg "Cover of Vol 2")
 
 
