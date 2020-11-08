@@ -148,7 +148,7 @@ Transl. Joanna Dutkiewicz
  
 Next to this critical aspect, however, we can also find references in Herbert’s work to the heroic image of the Greek polis, to the tradition of Leonidas and the defence of Thermopylae. In “Prologue”, “Photograph” and “Report from the Besieged City” we find allusions to the Spartan tradition as laying a foundation for heroism and sanctioning such values as honour, patriotism, keeping one’s word. These accents return particularly in those works in which Herbert invokes the theme of a lost city: Lvov and, in a different aspect, Warsaw”.
 
-Grażyna Halkiewicz-Sojak wrote that Spartan motifs and allusions in Herbert’s oeuvres rereal an axiological duality”. After Halkiewicz-Sojak had completed this paper, the Zbigniew Herbert archive became available and it is now possible to find extensive notes for a publication that Herbert had planned on Thermopylae; these notes confirm the duality noted in Halkiewicz-Sojak’s paper. Herbert was very sceptical about an anti-individualist Sparta, though he valued Thermopylae and what it represented very highly. 
+Grażyna Halkiewicz-Sojak wrote that Spartan motifs and allusions in Herbert’s oeuvres reveal an axiological duality”. After Halkiewicz-Sojak had completed this paper, the Zbigniew Herbert archive became available and it is now possible to find extensive notes for a publication that Herbert had planned on Thermopylae; these notes confirm the duality noted in Halkiewicz-Sojak’s paper. Herbert was very sceptical about an anti-individualist Sparta, though he valued Thermopylae and what it represented very highly. 
 
 Further details: see M. Kalinowska, *Sparta w niepublikowanych rękopisach Zbigniewa Herberta. Rekonesans*, „Sztuka Edycji”, 2017: 1, p.45-54.
 
