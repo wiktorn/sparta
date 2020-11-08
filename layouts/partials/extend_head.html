@@ -1,0 +1,8 @@
+<!-- Head custom content area start -->
+{{- $sparta_resource := resources.Get "css/sparta.css"  -}} 
+{{- $sparta_style := slice $sparta_resource | resources.Concat "sparta-stylesheet.css" | minify | fingerprint -}}
+<link href="{{ $sparta_style.Permalink }}" integrity="{{ $sparta_style.Data.Integrity }}" rel="preload stylesheet" as="style">
+<!--
+Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. Can be overwritten by partial with the same name in the global layouts.
+-->
+<!-- Head custom content area end -->
