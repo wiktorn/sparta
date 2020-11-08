@@ -35,7 +35,7 @@ params:
   label:
     text: "Home"
     icon: /sparta/logo.jpg
-    iconHeight: 75
+    iconHeight: 95
 
 
   # home-info mode
