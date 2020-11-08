@@ -34,7 +34,7 @@ params:
 
   label:
     text: "Home"
-    icon: /sparta/apple-touch-icon.png
+    icon: ../../logo.jpg
     iconHeight: 35
 
 
