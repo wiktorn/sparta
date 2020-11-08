@@ -5,8 +5,7 @@ date: "2020-11-06"
 weight: 3
 toc: false
 description: "Description"
-ShowToc: true
-TocOpen: true
+
 ---
 
 Romanticism had exerted a huge influence on all subsequent periods of Polish culture and on the Polish national consciousness. Romantic literature was written at a time of national bondage, which made its function very special: it was charged with upholding national identity and often replacing institutions that did not exist in the enslaved society. 
