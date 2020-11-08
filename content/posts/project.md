@@ -2,7 +2,7 @@
 title: "Sparta in Polish Literature & Culture: the project and the two volumes"
 weight: 1
 toc: true
-author: "Maria Kalinowska"
+author: "*Maria Kalinowska*"
 title: "Sparta in Polish Literature & Culture: the project and the two volumes"
 date: "2020-11-03"
 weight: 1
